@@ -24,6 +24,9 @@ try:
             print("Documento eliminado:"+x+", Debido a que supera los 60 días de retencion")
             os.remove(ruta_docs+"Historico/"+x)
 
+    print("Presione cualquier letra para salir")
+    k = readchar.readchar()
+
 except:
     print("Ocurrio un error:")
     traceback.print_exc()
