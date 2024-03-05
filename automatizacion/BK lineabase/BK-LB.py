@@ -15,7 +15,7 @@ try:
     shutil.copy(ruta_docs + "SENA lineabase -contrato intermedio.xlsx", ruta_docs+"Historico/"+fecha +"SENA lineabase -contrato intermedio.xlsx")
     print("Copia OK")
     historial = os.listdir(ruta_docs+"Historico")
-    
+
     for x in historial:
         fechabk = x[0:10]
         fechaftbk = datetime.strptime(fechabk, '%d-%m-%Y')
@@ -23,7 +23,7 @@ try:
         if fechaftbk.date()  < fechaelim:
             print("Documento eliminado:"+x+", Debido a que supera los 60 días de retencion")
             os.remove(ruta_docs+"Historico/"+x)
-            
+
 except:
     print("Ocurrio un error:")
     traceback.print_exc()
