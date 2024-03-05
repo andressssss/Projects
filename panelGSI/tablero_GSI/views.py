@@ -1,12 +1,12 @@
 from django.shortcuts import render
-from rest_framework import generics
-from tablero_GSI.models import Aplicaciones
-from tablero_GSI.serializadores import AplicacionSerializer
+from rest_framework import viewsets
+from .models import Aplicaciones, lineabase
+from .serializers import AplicacionSerializer, lineabaseSerializer
 
-class AplicacionList(generics.ListCreateAPIView):
-    queryset = Aplicaciones.objects.all()
+class AplicacionViewSet(viewsets.ModelViewSet):
     serializer_class = AplicacionSerializer
+    queryset = Aplicaciones.objects.all()
 
-class AplicacionDetail(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Aplicaciones.objects.all()
-    serializer_class = AplicacionSerializer
+class lineabaseViewSet(viewsets.ModelViewSet):
+    serializer_class = lineabaseSerializer
+    queryset = lineabase.objects.all()

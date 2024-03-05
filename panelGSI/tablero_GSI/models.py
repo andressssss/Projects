@@ -7,3 +7,6 @@ class Aplicaciones(models.Model):
     codigo = models.IntegerField()
     nombre = models.CharField(max_length=100)
     nombreSV = models.CharField(max_length=100)
+
+class lineabase(models.Model):
+    text = models.TextField()

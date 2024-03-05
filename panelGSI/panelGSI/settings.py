@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'tablero_GSI',
+    'tablero_GSI.apps.TableroGsiConfig',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -77,8 +77,12 @@ WSGI_APPLICATION = 'panelGSI.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'infomediagsi',
+        'USER': 'andresSR',
+        'PASSWORD': 'Yy4q9As67jMmK7(/',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
     }
 }
 

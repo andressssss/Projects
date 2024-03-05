@@ -16,8 +16,31 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from rest_framework import routers
+from tablero_GSI.views import AplicacionViewSet, lineabaseViewSet
+
+# Aplicaciones router
+
+aplicaciones_router = routers.SimpleRouter()
+aplicaciones_router.register(
+    r'aplicaciones',
+    AplicacionViewSet,
+    basename='Aplicaciones'
+)
+
+#lineabase router
+
+lineabase_router = routers.SimpleRouter()
+lineabase_router.register(
+    r'lineabase',
+    lineabaseViewSet,
+    basename='lineabase'
+)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('tablero_GSI.urls')),
+
+    # API
+    path('api/', include(aplicaciones_router.urls)),
+    path('api/', include(lineabase_router.urls)),
 ]
