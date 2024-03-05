@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from rest_framework import viewsets
-from .models import Aplicaciones, lineabase
+from .models import *
 from .serializers import AplicacionSerializer, lineabaseSerializer
 
 class AplicacionViewSet(viewsets.ModelViewSet):
