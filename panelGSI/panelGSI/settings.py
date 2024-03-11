@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'panelGSI.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'infomediagsi',
+        'NAME': 'panelart',
         'USER': 'andresSR',
         'PASSWORD': 'Yy4q9As67jMmK7(/',
         'HOST': '127.0.0.1',

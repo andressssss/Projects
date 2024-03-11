@@ -17,16 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from tablero_GSI.views import AplicacionViewSet, lineabaseViewSet
-
-# Aplicaciones router
-
-aplicaciones_router = routers.SimpleRouter()
-aplicaciones_router.register(
-    r'aplicaciones',
-    AplicacionViewSet,
-    basename='Aplicaciones'
-)
+from tablero_GSI.views import lineabaseViewSet, CMDBViewSet, eventosViewSet, llaveViewSet, CMDBvsEventosViewSet
 
 #lineabase router
 
@@ -37,10 +28,49 @@ lineabase_router.register(
     basename='lineabase'
 )
 
+#CMDB router
+
+CMDB_router = routers.SimpleRouter()
+CMDB_router.register(
+    r'CMDB',
+    CMDBViewSet,
+    basename='CMDB'
+)
+
+#evento router
+
+evento_router = routers.SimpleRouter()
+evento_router.register(
+    r'eventos',
+    eventosViewSet,
+    basename='eventos'
+)
+
+#llave router
+
+llave_router = routers.SimpleRouter()
+llave_router.register(
+    r'llave',
+    llaveViewSet,
+    basename='llave'
+)
+
+#CMDBvsEventos router
+
+CMDBvsEventos_router = routers.SimpleRouter()
+CMDBvsEventos_router.register(
+    r'CMDBvseventos',
+    CMDBvsEventosViewSet,
+    basename='CMDBvsEventos'
+)
+
 urlpatterns = [
     path('admin/', admin.site.urls),
 
     # API
-    path('api/', include(aplicaciones_router.urls)),
     path('api/', include(lineabase_router.urls)),
+    path('api/', include(CMDB_router.urls)),
+    path('api/', include(evento_router.urls)),
+    path('api/', include(llave_router.urls)),
+    path('api/', include(CMDBvsEventos_router.urls))
 ]

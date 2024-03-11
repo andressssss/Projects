@@ -1,0 +1,983 @@
+﻿codigo,aplicacion,nombreSV,estadoApp,ipV4,estadoipV4,ambienteSV, rol,so,ubicacion
+HT012,Gestión Aceleradores y Estrategias (GAE),sc0-02zdbadm10,Eliminado,,,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",,ID601 - Datacenter Odata
+SI010,GESTIÓN DOCUMENTAL ONBASE,sc01zdbadm16,Aplicado,172.29.10.105,Aplicado,Recuperación ante desastres (RD),Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),sc0-02zdbadm05,,,,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",,ID601 - Datacenter Odata
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),sc01zdbadm05,Aplicado,172.29.10.108,Aplicado,Recuperación ante desastres (RD),Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),sc01zdbadm17,Aplicado,172.29.10.106,Aplicado,Recuperación ante desastres (RD),Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI015,SISTEMA INTEGRADO DE GESTIÓN DE PROYECTOS (SIGP),sco-02dedadm0202,Eliminado,172.29.10.223,Aplicado,Recuperación ante desastres (RD),Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID601 - Datacenter Odata
+SI018,SISTEMA ADMINISTRATIVO ORIONS,sc0-0202d2z01cli,Eliminado,172.29.10.141,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),sc0-0202d2z06,Eliminado,172.29.10.146,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc0101d2z08,Eliminado,172.29.10.176,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+SI052,BASE DE DATOS SNIES,sc01zdbadm05,Aplicado,172.29.10.108,Aplicado,Recuperación ante desastres (RD),Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI052,BASE DE DATOS SNIES,sc01zdbadm17,Aplicado,172.29.10.106,Aplicado,Recuperación ante desastres (RD),Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),sc0-0202d2z06,Eliminado,172.29.10.146,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),sc0-02zdbadm05,Eliminado,172.29.10.55,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),sc0-02zdbadm07,Eliminado,172.29.10.57,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),sc01zdbadm05,Aplicado,172.29.10.108,Aplicado,Recuperación ante desastres (RD),Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),sc01zdbadm17,Aplicado,172.29.10.106,Aplicado,Recuperación ante desastres (RD),Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI102,CÓDIGO DE BARRAS - SPU,sc0-0202d2z06,Eliminado,172.29.10.146,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,sc0-0202d2z06,Eliminado,172.29.10.146,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI130,GESTIONWEB (WEBSUPPORT),sc0-0202d2z06,Eliminado,172.29.10.146,Aplicado,Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vsdppapsofia02,Eliminado,,,Prueba Recuperación ante desastres (RD),,,ID601 - Datacenter Odata
+SI001,APORTES CERTIAPORTES,sc0-0201d2z04cli,Eliminado,172.29.10.33,Aplicado,Producción Recuperación ante desastres (RD),"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+HT002,HERRAMIENTA KMS,vspdapkms01,Aplicado,172.29.19.56,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT002,HERRAMIENTA KMS,vsppapkms01,Aplicado,172.30.164.76,Aplicado,Producción,Capa : Licenciamiento ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT003,LATCH - CA PRIVILEGED ACCESS MANAGER (CAPAM),vscapambd01,Aplicado,172.29.10.217,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT003,LATCH - CA PRIVILEGED ACCESS MANAGER (CAPAM),vspdapcapam02,Aplicado,172.29.52.120,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT003,LATCH - CA PRIVILEGED ACCESS MANAGER (CAPAM),vspdapcapam03,Aplicado,172.29.52.121,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT003,LATCH - CA PRIVILEGED ACCESS MANAGER (CAPAM),vspdappamce01,Aplicado,172.29.52.35,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT003,LATCH - CA PRIVILEGED ACCESS MANAGER (CAPAM),vspdappamjs01,Aplicado,172.29.52.41,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT003,LATCH - CA PRIVILEGED ACCESS MANAGER (CAPAM),vspdappamsa01,Aplicado,172.29.52.36,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT003,LATCH - CA PRIVILEGED ACCESS MANAGER (CAPAM),vspdbdpamjs01,Aplicado,172.29.52.42,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT004,MEGAHOPEX,vsmegahopexapp,Aplicado,172.29.52.39,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT005,MICROSOFT SECURITY - RAAS,vspdapmovere01,Fuera de servicio,172.29.52.32,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT008,HERRAMIENTA DE GESTIÓN DE PROYECTOS,vsprdbdsow01,Eliminado,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT009,SENA PLUS,pspdapsvivo01,Aplicado,172.17.0.1,Aplicado,Producción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,Ubuntu Linux 22.04,ID600 - Datacenter Zona Franca
+HT009,SENA PLUS,pspdapsvivo02,Aplicado,172.17.0.1,Aplicado,Producción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,Ubuntu Linux 22.04,ID600 - Datacenter Zona Franca
+HT009,SENA PLUS,vspdapsvivo01,Eliminar,,,Producción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT009,SENA PLUS,vspdapsvivo02,Eliminar,,,Producción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT009,SENA PLUS,vspdapsvivo03,Eliminar,,,Producción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT009,SENA PLUS,vspdbdsvivo01,Eliminar,,,Producción,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vsintcoesql01,Eliminar,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vsonpcoesql01,Eliminar,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vspdapdashb01,Aplicado,172.30.163.63,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),vspdapdashb01,Aplicado,172.30.163.63,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),vspdapsdcace01,Aplicado,172.30.163.171,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.2,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),vspdapsdcace02,Aplicado,172.30.163.172,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.2,ID600 - Datacenter Zona Franca
+HT013,INTEROPERABILIDAD SENA XROAD,vspdapxroad01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+HT014,SOLUCIÓN ANALÍTICA DATOS ABIERTOS,vsgovapp01,Aplicado,172.29.19.140,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.9,ID600 - Datacenter Zona Franca
+HT014,SOLUCIÓN ANALÍTICA DATOS ABIERTOS,vsgovapp02,Aplicado,172.29.19.141,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT014,SOLUCIÓN ANALÍTICA DATOS ABIERTOS,vspdapdashb01,Aplicado,172.30.163.63,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdapsect01,Aplicado,172.30.163.221,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdapsect02,Aplicado,172.30.163.222,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdapsect03,Aplicado,172.30.163.223,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdapsect04,Aplicado,172.30.163.224,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdapsect05,Aplicado,172.30.163.225,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdbdsect01,Aplicado,169.254.1.143,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdbdsect02,Aplicado,169.254.2.42,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfdbsoapd01,Aplicado,172.29.11.62,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfdbsoapd02,Aplicado,172.29.11.178,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfodipd01,Aplicado,172.29.11.42,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfodipd02,Aplicado,172.29.11.50,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfosbpd01,Aplicado,172.29.11.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfosbpd02,Aplicado,172.29.11.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfwlspd01,Aplicado,172.29.11.52,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfwlspd02,Aplicado,172.20.10.6,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,vspdapdashb01,Aplicado,172.30.163.63,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,vspdapsdcace01,Aplicado,172.30.163.171,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.2,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,vspdapsdcace02,Aplicado,172.30.163.172,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.2,ID600 - Datacenter Zona Franca
+HT021,MODELOS ANALÍTICOS METAS DE FORMACIÓN,vspdapdashb01,Aplicado,172.30.163.63,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,vspdapdashb01,Aplicado,172.30.163.63,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,vspdapsdcace01,Aplicado,172.30.163.171,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.2,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,vspdapsdcace02,Aplicado,172.30.163.172,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.2,ID600 - Datacenter Zona Franca
+SI001,APORTES CERTIAPORTES,sc0-0202d2z04cli,Eliminado,172.29.10.144,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+SI001,APORTES CERTIAPORTES,sc0102d2z04,Aplicado,172.29.10.129,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI002,PLANILLA INTEGRAL CARTERA,vspdbdplan01,Aplicado,169.254.2.98,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI002,PLANILLA INTEGRAL CARTERA,vspdbdplan02,Aplicado,169.254.1.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI002,PLANILLA INTEGRAL CARTERA,vsplanapp01,Aplicado,172.29.11.211,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI002,PLANILLA INTEGRAL CARTERA,vsplanapp02,Aplicado,172.29.11.212,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI004,KACTUS,sc0102d2z06,Aplicado,172.29.10.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI004,KACTUS,sc01zdbadm03,Aplicado,172.29.10.53,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI004,KACTUS,sc01zdbadm15,Aplicado,172.29.10.75,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspdftpkact01,Aplicado,172.29.18.87,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspdrdkact01,Aplicado,172.29.19.184,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspdrdkact02,Aplicado,172.29.18.42,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspdrdkact03,Aplicado,172.29.18.41,Aplicado,Producción,Capa: Aplicación,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspdwebkact01,Aplicado,172.29.18.43,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspdwebkact02,Aplicado,172.29.18.44,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI006,SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - ALEPH500,vspdbdapaleph01,Aplicado,172.29.19.218,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vspdapsgva01,Aplicado,172.29.19.30,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vspdapsgva02,Aplicado,172.29.19.31,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vspdbdsgin02,Eliminado,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vspdbdsgva03,Aplicado,169.254.2.203,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vspdbdsgva04,Aplicado,169.254.1.59,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vspdbdsgvar01,Aplicado,169.254.2.196,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vspdbdsgvar02,Aplicado,169.254.1.214,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vssgvaapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vssgvaapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vssgvabd01,,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vssgvabd02,,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI008,CORREO INSTITUCIONAL EXCHANGE,vsopdapexch03,Eliminado,,,Producción,Capa: Infraestructura,,ID601 - Datacenter Odata
+SI008,CORREO INSTITUCIONAL EXCHANGE,vspdapexch01,Aplicado,172.29.13.174,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI008,CORREO INSTITUCIONAL EXCHANGE,vspdapexch02,Aplicado,172.29.13.175,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vsmisenaapp02,Eliminar,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vsmisenabd01,Eliminar,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vsovirtapp12,Eliminar,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vsovirtapp13,Aplicado,172.29.18.60,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vsovirtapp14,Aplicado,172.29.18.61,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vsovirttask,Eliminar,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vspdbdovir01,Aplicado,169.254.1.123,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vspdbdovir02,Aplicado,169.254.2.67,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,sc01zdbadm04,Aplicado,172.29.10.103,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsonbaseapp06,,,,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsonbasefs01rp,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsonbasefs01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdapobase02,Aplicado,172.30.163.227,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdapobase03,Aplicado,172.30.163.228,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdapobase04ne,Aplicado,169.254.234.169,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdapobase06,Aplicado,172.29.18.81,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdapobase09,Aplicado,172.30.163.168,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI011,INTRANET ANTIGUA CONSULTA HISTÓRICA,vsnubeapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI011,INTRANET ANTIGUA CONSULTA HISTÓRICA,vsnubeapp02,,,,Producción,Capa : Herramienta ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI012,OFICINA VIRTUAL FORMACIÓN,vsovirtapp12,Eliminar,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI012,OFICINA VIRTUAL FORMACIÓN,vsovirtapp13,Aplicado,172.29.18.60,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI012,OFICINA VIRTUAL FORMACIÓN,vsovirtapp14,Aplicado,172.29.18.61,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI012,OFICINA VIRTUAL FORMACIÓN,vsovirttask,Eliminar,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI012,OFICINA VIRTUAL FORMACIÓN,vspdapovirf01,Aplicado,172.29.18.68,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI012,OFICINA VIRTUAL FORMACIÓN,vspdbdovir01,Aplicado,169.254.1.123,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI012,OFICINA VIRTUAL FORMACIÓN,vspdbdovir02,Aplicado,169.254.2.67,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalapp01,Aplicado,172.29.19.230,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalapp02,Aplicado,172.29.19.231,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalapp03,Aplicado,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalbd01,Aplicado,169.254.2.87,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalbd02,Aplicado,169.254.1.41,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalbus01,Aplicado,172.29.19.233,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalfront01,Aplicado,172.29.18.89,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalfront02,Aplicado,172.29.11.227,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalfront03,Aplicado,172.29.18.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsportalfront04,Aplicado,172.29.18.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),sc0-02zdbadm17,,,,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",,ID601 - Datacenter Odata
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),sc01zdbadm12,Aplicado,172.29.10.188,Aplicado,Producción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),sc01zdbadm24,Aplicado,172.29.10.187,Aplicado,Producción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),vssmaapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),vssmaapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI015,SISTEMA INTEGRADO DE GESTIÓN DE PROYECTOS (SIGP),sc0-0202d2z03,Eliminado,,,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",,ID601 - Datacenter Odata
+SI015,SISTEMA INTEGRADO DE GESTIÓN DE PROYECTOS (SIGP),sc0101d2z01,Aplicado,172.29.10.121,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI015,SISTEMA INTEGRADO DE GESTIÓN DE PROYECTOS (SIGP),sc0101d2z03,Aplicado,172.29.10.157,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI015,SISTEMA INTEGRADO DE GESTIÓN DE PROYECTOS (SIGP),sc0102d2z03,Aplicado,172.29.10.143,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI015,SISTEMA INTEGRADO DE GESTIÓN DE PROYECTOS (SIGP),vssigpapp01,Aplicado,172.29.11.251,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI015,SISTEMA INTEGRADO DE GESTIÓN DE PROYECTOS (SIGP),vssigpapp05,Aplicado,172.29.11.252,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI016,SISTEMA FINANCIERO INTEGRADO FINANZAS 2000 (SFI),sc0101d2z01,Aplicado,172.29.10.121,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI016,SISTEMA FINANCIERO INTEGRADO FINANZAS 2000 (SFI),sc0102d2z01,Aplicado,172.29.10.122,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI016,SISTEMA FINANCIERO INTEGRADO FINANZAS 2000 (SFI),sc0102d2z03,Aplicado,172.29.10.143,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI016,SISTEMA FINANCIERO INTEGRADO FINANZAS 2000 (SFI),vssfiapp01,Aplicado,172.29.18.75,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI016,SISTEMA FINANCIERO INTEGRADO FINANZAS 2000 (SFI),vssfiapp02,Aplicado,172.29.18.76,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI018,SISTEMA ADMINISTRATIVO ORIONS,sc0102d2z01,Aplicado,172.29.10.122,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI018,SISTEMA ADMINISTRATIVO ORIONS,sc0102d2z03,Aplicado,172.29.10.143,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI018,SISTEMA ADMINISTRATIVO ORIONS,vsorionsapp01,Aplicado,172.29.18.77,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI018,SISTEMA ADMINISTRATIVO ORIONS,vsorionsapp02,Aplicado,172.29.18.78,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI018,SISTEMA ADMINISTRATIVO ORIONS,VSPDAPORION01,Eliminado,,,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),sc0101d2z02,Eliminado,,,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",,ID601 - Datacenter Odata
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),sc0102d2z02,Eliminar,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),sc01zdbadm25,Aplicado,172.29.20.192,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),vssgcapp01,Aplicado,172.29.19.81,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),vssgcapp02,Aplicado,172.29.19.82,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2003,ID600 - Datacenter Zona Franca
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),vssgcapp03,Aplicado,172.29.18.79,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows 5.2.3790,ID600 - Datacenter Zona Franca
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),vssgcapp04,Aplicado,172.29.18.80,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows 5.2.3790,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),psnmvbogsecclbd,Aplicado,172.29.33.130,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2008 R2,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),sc0102d2z06,Aplicado,172.29.10.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vssecclapp01,Aplicado,172.29.18.46,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vssecclapp02,Aplicado,172.29.18.47,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vssecclbd01,Aplicado,172.29.11.126,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2008 R2,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vssecclbd02,Aplicado,172.29.11.135,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2008 R2,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vsseccltask01,Aplicado,172.29.19.187,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc0-0201d2z02cli,Eliminado,172.29.10.82,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc0-0201d2z05cli,Eliminado,172.29.10.34,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc0-0202d2z02cli,Eliminado,172.29.10.142,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc0-0202d2z05cli,Eliminado,172.29.10.145,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID601 - Datacenter Odata
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc0101d2z09,Aplicado,172.29.10.124,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc01zdbadm13,Aplicado,172.29.20.191,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc01zdbadm25,Aplicado,172.29.20.192,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsfirmdigapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsfirmdigapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsfirmdigapp03,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsfirmdigapp04,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsfirmdigapp05,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vspdapfidig01,Aplicado,172.30.163.162,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vspdapfidig02,Aplicado,172.30.163.163,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vspdapfidig03,Aplicado,172.30.163.164,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vspdapfidig04,Aplicado,172.30.163.165,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI027,CONTRATACIÓN,vspdbdctrta01,Aplicado,172.30.154.18,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds01,Aplicado,172.29.13.153,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds02,Aplicado,172.29.13.154,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds03,Aplicado,172.29.13.155,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds04,Aplicado,172.29.13.156,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds05,Aplicado,172.29.13.157,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds06,Aplicado,172.30.132.232,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadform01,Aplicado,172.29.13.151,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadform02,Aplicado,172.29.13.152,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadfs02,Aplicado,172.30.163.40,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdapadcs01,Aplicado,172.29.13.150,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,VSPDAPADCS02,Aplicado,,,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspddhcp01,Aplicado,172.30.132.231,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspddhcp02,Aplicado,172.30.132.226,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia04r3p,Aplicado,169.254.180.20,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia01r1p,Aplicado,169.254.128.1,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia01r2p,Aplicado,169.254.142.54,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia01r3p,Aplicado,169.254.230.255,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia02r2,Aplicado,169.254.229.207,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia02r3p,Aplicado,169.254.187.159,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia02rp,Aplicado,169.254.61.206,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia03r2p,Aplicado,169.254.136.184,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia03r3p,Aplicado,169.254.200.100,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia04r1p,Aplicado,169.254.165.193,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia04r2p,Aplicado,169.254.137.140,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia05r2p,Aplicado,169.254.210.245,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia05r3p,Aplicado,169.254.140.74,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia06r1p,Aplicado,169.254.10.211,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia06r2p,Aplicado,169.254.103.9,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia07r1p,Aplicado,169.254.113.42,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),fsdcososofia07r2p,Aplicado,169.254.250.98,Aplicado,Producción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.7,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc0-02rootadm0101,Fuera de servicio,,,Producción,,,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc0-02rootadm0201,Fuera de servicio,,,Producción,,,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc0-02zdbadm06,Eliminado,172.29.10.109,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc0-02zdbadm18,Eliminado,172.29.10.110,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc01zdbadm02,Aplicado,172.29.10.52,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc01zdbadm06,Aplicado,172.29.10.109,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc01zdbadm14,Aplicado,172.29.10.74,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sc01zdbadm18,Eliminar,,,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp01,Aplicado,172.29.18.118,Aplicado,Producción,Capa: Aplicación; No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp02,Aplicado,172.29.18.114,Aplicado,Producción,Capa: Aplicación; No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp03,Aplicado,172.29.18.116,Aplicado,Producción,Capa: Aplicación; No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp04,Aplicado,172.29.18.109,Aplicado,Producción,Capa: Aplicación; No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp05,Aplicado,172.29.18.122,Aplicado,Producción,Capa: Aplicación; No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp06,Aplicado,172.29.18.119,Aplicado,Producción,Capa: Aplicación; No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp07,Aplicado,172.29.18.117,Aplicado,Producción,Capa: Aplicación; No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp08,Aplicado,172.29.18.103,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp09,Aplicado,172.29.18.107,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp10,Aplicado,172.29.18.120,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp11,Aplicado,172.29.18.104,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofapp12,Aplicado,172.29.18.113,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofauth01,Aplicado,172.29.18.101,Aplicado,Producción,Capa: Aplicación  No de Tarjetas Fiber Channel: N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofauth02,Aplicado,172.29.18.102,Aplicado,Producción,"Capa: Aplicación, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofbdmy01,Aplicado,172.29.18.110,Aplicado,Producción,"Capa: Aplicación, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofbdmy02,Aplicado,172.29.18.108,Aplicado,Producción,"Capa: Aplicación, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofbdmy1,Fuera de servicio,,,Producción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofbdmy2,Fuera de servicio,,,Producción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofbi01,Aplicado,172.29.18.100,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 6.5,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sfsofnfs01,Fuera de servicio,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID601 - Datacenter Odata
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),sofrelay01,Aplicado,172.29.19.235,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vsmisenaapp01,Aplicado,172.29.19.68,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vspdsofdevops01,Aplicado,172.29.35.17,Aplicado,Producción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.8,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vssofrelayqa,,,,Producción,"Capa: Aplicación, No de Tarjetas Fiber Channel: N/A",,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape01,Aplicado,172.30.163.113,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape02,Aplicado,172.30.163.114,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape03,Aplicado,172.30.163.115,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape04,Aplicado,172.30.163.116,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape05,Aplicado,172.30.163.136,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape06,Aplicado,172.30.163.137,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape07,Aplicado,172.30.163.138,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape08,Aplicado,172.30.163.139,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape09,Aplicado,172.30.163.140,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape10,Aplicado,172.30.163.141,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape11,Aplicado,172.30.163.142,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape12,Aplicado,172.30.163.181,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape13,Aplicado,172.30.163.182,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape14,Aplicado,172.30.163.183,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape15,Aplicado,169.254.177.34,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape16,Aplicado,169.254.236.25,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape17,Aplicado,169.254.17.123,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape18,Aplicado,169.254.182.135,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape19,Aplicado,169.254.147.92,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape20,Aplicado,172.30.163.189,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape21,Aplicado,172.30.163.190,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape22,Aplicado,172.30.163.191,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape23,Aplicado,172.30.163.192,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapwkape01,Aplicado,172.30.163.109,Aplicado,Producción,Capa : Aplicación Y Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdbdspape01,Aplicado,169.254.1.247,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdbdspape02,Aplicado,169.254.2.70,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdbdwkape01,Aplicado,172.31.23.105,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalapp01,Aplicado,172.29.19.230,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalapp02,Aplicado,172.29.19.231,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalapp03,Aplicado,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalbd01,Aplicado,169.254.2.87,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalbd02,Aplicado,169.254.1.41,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalbus01,Aplicado,172.29.19.233,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalfront01,Aplicado,172.29.18.89,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalfront02,Aplicado,172.29.11.227,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalfront03,Aplicado,172.29.18.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsportalfront04,Aplicado,172.29.18.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc0101d2z09,Aplicado,172.29.10.124,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iod1z01,Aplicado,172.29.11.241,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iod1z02,Aplicado,172.29.11.242,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iod1z07,Aplicado,172.29.10.175,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iod1z12,Aplicado,172.29.10.45,Aplicado,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iod2z08,Aplicado,172.29.10.176,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iod2z10,Aplicado,172.29.10.168,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iomgt0101,Aplicado,172.29.11.221,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01iomgt0201,Aplicado,172.29.11.222,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01zdbadm07,Aplicado,172.29.10.116,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),sc01zdbadm19,Eliminar,,,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),vsaperep01,Aplicado,172.29.11.246,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 6.5,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),vspdapspape06,Aplicado,172.30.163.137,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vspdapoblab01,Aplicado,172.30.163.86,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vspdapoblab02,Aplicado,172.30.163.87,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vspdbdogag02,Aplicado,169.254.125.90,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI046,GESDOC2K,sc0101d2z04,Aplicado,172.29.10.127,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI047,GESDOC06,sc0101d2z04,Aplicado,172.29.10.127,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 10,ID600 - Datacenter Zona Franca
+SI050,COSTOS WEB,vspdapcostos01,Aplicado,172.30.163.54,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI050,COSTOS WEB,vspdapcostos02,Aplicado,172.30.163.55,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI050,COSTOS WEB,vspdapcostos03,Aplicado,172.30.163.56,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI050,COSTOS WEB,vspdapcostos04,Aplicado,172.30.163.57,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI050,COSTOS WEB,vspdbdcostos01,Aplicado,172.31.2.173,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchape01,Aplicado,172.30.163.88,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchape02,Aplicado,172.30.163.89,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchape03,Aplicado,172.30.163.90,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchape04,Aplicado,172.30.163.91,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchdaf01,Aplicado,172.30.163.31,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchdaf02,Aplicado,172.30.163.32,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchform01,Aplicado,172.30.163.22,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchform03,Aplicado,172.30.163.24,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchform04,Aplicado,172.30.163.25,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchliz01,Aplicado,172.30.163.72,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchliz02,Aplicado,172.30.163.73,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchliz03,Aplicado,172.29.19.115,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchliz04,Aplicado,172.29.19.116,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdbdchape01,Aplicado,172.31.2.154,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdbdchdaf01,Aplicado,172.31.1.106,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdbdchform01,Aplicado,172.31.1.62,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdbdchliz01,Aplicado,172.31.23.30,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdbdchliz02,Aplicado,172.29.11.10,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdbdchliz03,Aplicado,172.29.11.11,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI059,PERIÓDICO WEB SENA,vmdigapaa01,Aplicado,172.16.2.227,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI059,PERIÓDICO WEB SENA,vspdbdpecow01,Aplicado,172.30.154.28,Aplicado,Producción,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.8,ID600 - Datacenter Zona Franca
+SI078,PORTAL PQRSD,vspdbdpqrs01,Aplicado,169.254.4.234,Aplicado,Producción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),sc0-02zdbadm17,Eliminado,,,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",,ID601 - Datacenter Odata
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),sc0102d2z06,Aplicado,172.29.10.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapcompe02,Aplicado,172.29.19.5,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapcompe03,Aplicado,172.29.19.40,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapcomxp01,Aplicado,172.29.18.57,Aplicado,Producción,"Capa: Aplicación, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft01,Aplicado,172.29.19.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft02,Aplicado,172.29.19.50,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft03,Aplicado,172.29.11.249,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft04,Aplicado,172.29.11.244,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft05,Aplicado,172.29.11.253,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft06,Aplicado,172.29.10.185,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft07,Aplicado,172.29.11.245,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapdsnft08,Aplicado,172.29.11.248,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapeclin01,Aplicado,172.29.52.12,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vspdapeclin02,Aplicado,172.29.52.13,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI092,MICROSOFT CRM - ON PREMISE,vscrmsql02,Aplicado,169.254.2.53,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI092,MICROSOFT CRM - ON PREMISE,vscrmsqlrep01,Aplicado,172.29.10.14,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI092,MICROSOFT CRM - ON PREMISE,vscrmsqlrep02,Aplicado,169.254.139.121,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI092,MICROSOFT CRM - ON PREMISE,vspdbdopcrm01,Aplicado,172.30.154.14,Aplicado,Producción,,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vscompromiapp03,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vscompromisobd01,Aplicado,169.254.18.9,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vscompromisobd02,Aplicado,169.254.24.148,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vspdapcompro01,Aplicado,172.30.163.145,Aplicado,Producción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vspdapcompro02,Aplicado,172.30.163.149,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vspdaprpabt01,Aplicado,172.30.163.103,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vsppbdcompro01,Aplicado,172.31.2.208,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,sc0102d2z06,Aplicado,172.29.10.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,sc01zdbadm11,Aplicado,172.29.11.228,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,sc01zdbadm23,Aplicado,172.29.11.229,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,vspdapvivda02,Aplicado,172.30.163.118,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI098,SISTEMA DE GESTIÓN DE PROYECTO SENNOVA,VMVRSNV3,Aplicado,,,Producción,Dirección IP:  52232164244,,Azure
+SI099,BUS DE DATOS,vspdapbus01,Aplicado,172.29.19.25,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI102,CÓDIGO DE BARRAS - SPU,vsfliasenapp02,Aplicado,172.29.19.144,Aplicado,Producción,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevenapp01,Aplicado,172.29.19.2,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevenapp02,Aplicado,172.29.19.3,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevenapp03,Aplicado,172.29.19.4,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevenbd01,Aplicado,172.29.11.112,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 6.5,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevenbd02,Aplicado,169.254.49.100,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 6.5,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevennrapp01,Aplicado,172.29.19.8,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevennrapp02,Aplicado,172.29.19.9,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevenprapp01,Aplicado,172.29.19.6,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI103,SEVEN,vssevenprapp02,Aplicado,172.29.19.7,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,sc01zdbadm09,Aplicado,172.29.10.118,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,sena1,,,,Producción,"Capa: Aplicación, No de Tarjetas Fiber Channel: N/A",,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,vsgsefronaapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,vsgsefronaapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,vsgsepenthaapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,vsgsetomapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,vspdaposoa01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,vspdbdoodi01,,,,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI104,SEDE ELECTRÓNICA,vspdbdosoa01,,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI106,REDMINE,vsredmineapp01,Aplicado,172.29.19.245,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI110,REPOSITORIO SVN DESARROLLOS,vssvnapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vsmiinventario,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vsminventario02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vsorionsbd11,Aplicado,169.254.24.164,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.9,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vsorionsbd12,Aplicado,169.254.220.70,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.9,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vspdapminv01,Aplicado,172.30.163.131,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vspdapminv02,Aplicado,172.30.163.132,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),sc01zdbadm11,Aplicado,172.29.11.228,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),sc01zdbadm23,Aplicado,172.29.11.229,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,sc0102d2z06,Aplicado,172.29.10.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vsfliasenapp02,Aplicado,172.29.19.144,Aplicado,Producción,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vspdapspu01,Aplicado,172.30.163.174,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vspdapspu02,Aplicado,172.30.163.175,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vspdbdsma01-bck,Aplicado,172.30.154.21,Aplicado,Producción,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.7,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vspdbdspu01,Aplicado,172.31.23.245,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.4,ID600 - Datacenter Zona Franca
+SI123,SISTEMA DE INFORMACIÓN DE LA ENI (SIENI),vspdapsien01,Aplicado,172.29.19.171,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI123,SISTEMA DE INFORMACIÓN DE LA ENI (SIENI),vspdapsien02,Aplicado,172.29.19.172,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI123,SISTEMA DE INFORMACIÓN DE LA ENI (SIENI),vspdbdsien01,Aplicado,172.29.11.209,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vscondocapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vscondocapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vscondocbd01,,,,Producción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",,ID601 - Datacenter Odata
+SI125,BLACKBOX,pru-dirjur01,,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI125,BLACKBOX,vspdapblbox01,Aplicado,172.30.163.128,Aplicado,Producción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),sc01zdbadm03,Aplicado,172.29.10.53,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),vspdbdcsst01,Aplicado,172.31.0.1,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),vssegtrapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),vssegtrapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI127,NORMOGRAMA,vsnormoapp02,,,,Producción,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI127,NORMOGRAMA,vspdapnorm01,Aplicado,172.30.163.143,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI127,NORMOGRAMA,vspdapnorm02,Aplicado,172.30.163.144,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI129,APLICACION PARA LEVANTAMIENTO DE INFORMACIÓN SEGUIMIENTO EGRESADOS (SEF),vssenacgiapp02,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI130,GESTIONWEB (WEBSUPPORT),vspdbdwebsu01,Aplicado,172.31.23.236,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.2,ID600 - Datacenter Zona Franca
+SI131,GEOSENA,vmdigvrma12,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI131,GEOSENA,vmdigvrma13,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI131,GEOSENA,vmdigvrma14,,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI131,GEOSENA,vspdbdogag02,Aplicado,169.254.125.90,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI133,SOFTWARE IDEA-CONTROL INTERNO,vmdigbogidea,Aplicado,172.16.2.154,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI134,SISTEMA DE INFORMACIÓN DISCIPLINARIA (SID3),vmdigsid01,Aplicado,172.16.2.19,Aplicado,Producción,Capa : Aplicación Y Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2008 R2,ID600 - Datacenter Zona Franca
+SI136,SISTEMA AUTO AUDITORIA DE CONTROL INTERNO (AUTOAUDIT),vmdigautadiis01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI136,SISTEMA AUTO AUDITORIA DE CONTROL INTERNO (AUTOAUDIT),vmdigautadiis,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI136,SISTEMA AUTO AUDITORIA DE CONTROL INTERNO (AUTOAUDIT),vmdigautadsql01,Aplicado,172.16.2.107,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI136,SISTEMA AUTO AUDITORIA DE CONTROL INTERNO (AUTOAUDIT),vspdbdaudit01,Aplicado,172.31.1.93,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI137,SISTEMA DE INTELIGENCIA ORGANIZACIONAL DEL SENA (SIOS),psnmvbogcoedmd3,,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI137,SISTEMA DE INTELIGENCIA ORGANIZACIONAL DEL SENA (SIOS),vsanacoesql01,Aplicado,172.29.11.183,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI137,SISTEMA DE INTELIGENCIA ORGANIZACIONAL DEL SENA (SIOS),vsintcoesql01,Eliminar,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI137,SISTEMA DE INTELIGENCIA ORGANIZACIONAL DEL SENA (SIOS),vsonpcoesql01,Eliminar,,,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI137,SISTEMA DE INTELIGENCIA ORGANIZACIONAL DEL SENA (SIOS),vspdbdsios01,Aplicado,172.31.0.107,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI139,SISTEMA DE INFORMACIÓN DE ADMINISTRACIÓN Y CONTROL DE BIENES (SACB) ,vsorionsbd11,Aplicado,169.254.24.164,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.9,ID600 - Datacenter Zona Franca
+SI139,SISTEMA DE INFORMACIÓN DE ADMINISTRACIÓN Y CONTROL DE BIENES (SACB) ,vsorionsbd12,Aplicado,169.254.220.70,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.9,ID600 - Datacenter Zona Franca
+SI139,SISTEMA DE INFORMACIÓN DE ADMINISTRACIÓN Y CONTROL DE BIENES (SACB) ,vsorionsrep11,Aplicado,172.29.19.182,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI139,SISTEMA DE INFORMACIÓN DE ADMINISTRACIÓN Y CONTROL DE BIENES (SACB) ,vspdapsacb11,Aplicado,172.29.19.177,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI139,SISTEMA DE INFORMACIÓN DE ADMINISTRACIÓN Y CONTROL DE BIENES (SACB) ,vspdwebsacb11,Aplicado,172.29.15.161,Aplicado,Producción,Capa : Web ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI139,SISTEMA DE INFORMACIÓN DE ADMINISTRACIÓN Y CONTROL DE BIENES (SACB) ,vspdwebsacb12,Aplicado,172.29.18.239,Aplicado,Producción,Capa : Web ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogesconbq01,Aplicado,172.29.19.213,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogesconbq02,Aplicado,172.29.19.214,Aplicado,Producción,Capa : Producción ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogesconcd01,Aplicado,172.29.19.246,Aplicado,Producción,Capa : Producción ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogesconcd02,Aplicado,172.29.19.247,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogescondb01,Aplicado,172.29.11.36,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogescondb02,Aplicado,169.254.42.152,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogescondb03,Aplicado,172.29.11.45,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogesconfe01,Aplicado,172.29.19.248,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsprogesconfe02,Aplicado,172.29.19.249,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI141,SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - OPEN JOURNAL SYSTEM (OJS),vspdapojs01,Aplicado,172.29.14.30,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI142,SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - Repositorio institucional DSPACE,svbiblioapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI142,SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - Repositorio institucional DSPACE,vspdapblds01,Aplicado,172.29.19.80,Aplicado,Producción,,Red Hat Enterprise Linux 8.6,ID600 - Datacenter Zona Franca
+SI142,SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - Repositorio institucional DSPACE,vspdbdblds01,Aplicado,172.31.1.32,Aplicado,Producción,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.6,ID600 - Datacenter Zona Franca
+SI146,JASPER,vspdapjas01,Aplicado,172.29.18.13,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vspdapcsir01,Aplicado,172.30.163.37,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.8,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vspdapsirec01,Aplicado,172.29.19.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vspdapsirec02,Aplicado,172.29.19.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vspdwebsirec01,Aplicado,172.29.19.107,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vspdwebsirec02,Aplicado,172.29.19.108,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vssirecbd01,Aplicado,169.254.157.29,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vssirecbd02,Aplicado,169.254.157.114,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vspdapcsir01,Aplicado,172.30.163.37,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.8,ID600 - Datacenter Zona Franca
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vssirecbd01,Aplicado,169.254.157.29,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vssirecbd02,Aplicado,169.254.157.114,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI149,SISTEMA NACIONAL DE PRODUCCIÓN DE CENTROS DE FORMACIÓN (SGARC),vsliqapp01,Aplicado,172.29.18.11,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI150,MICROSOFT CRM - ON LINE,vspdapcrmpb02,Aplicado,172.29.52.18,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI151,SISTEMA DE VOTO ELECTRÓNICO,vspdapvota01,Aplicado,172.29.52.40,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI151,SISTEMA DE VOTO ELECTRÓNICO,vsvotaciondb,Aplicado,172.29.10.246,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 6.5,ID600 - Datacenter Zona Franca
+SI152,INTRASUITE,vspdapisuit01,Aplicado,172.30.163.84,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsdesvconv01,Aplicado,172.30.176.88,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdapconv01,Aplicado,172.30.163.10,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdapconv02,Aplicado,172.30.163.11,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdapconv03,Aplicado,172.30.163.12,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdapconv04,Aplicado,172.30.163.13,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdapconv05,Aplicado,172.30.163.14,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdbdaconv01,Aplicado,169.254.28.51,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdbdaconv02,Aplicado,169.254.5.29,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdbdsconv01,Aplicado,169.254.2.239,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdbdsconv02,Aplicado,169.254.13.117,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdsvconv01,Aplicado,172.30.163.15,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdsvconv02,Aplicado,172.30.163.16,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdsvconv03,Aplicado,172.30.163.17,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprdsvconv04,Aplicado,172.30.163.18,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vspresvconv01,Aplicado,172.30.164.13,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI155,SISTEMA DE INFORMACIÓN CARGUE Y REPORTE EVALUACIÓN DE DESEMPEÑO (SED),pru-evadesapp01,Aplicado,172.29.35.203,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI155,SISTEMA DE INFORMACIÓN CARGUE Y REPORTE EVALUACIÓN DE DESEMPEÑO (SED),sc01zdbadm11,Aplicado,172.29.11.228,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI155,SISTEMA DE INFORMACIÓN CARGUE Y REPORTE EVALUACIÓN DE DESEMPEÑO (SED),sc01zdbadm23,Aplicado,172.29.11.229,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI155,SISTEMA DE INFORMACIÓN CARGUE Y REPORTE EVALUACIÓN DE DESEMPEÑO (SED),vspdapeva01,Aplicado,172.30.163.52,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI155,SISTEMA DE INFORMACIÓN CARGUE Y REPORTE EVALUACIÓN DE DESEMPEÑO (SED),vspdapeva02,Aplicado,172.30.163.53,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI156,CLASIFICACIÓN ÚNICA DE OCUPACIONES PARA COLOMBIA (CUOC),vspdapcuoc01,Aplicado,172.30.163.66,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI156,CLASIFICACIÓN ÚNICA DE OCUPACIONES PARA COLOMBIA (CUOC),vspdbdcuoc01,Aplicado,172.31.22.236,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI157,COMUNICA,vmdigapaa01,Aplicado,172.16.2.227,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI157,COMUNICA,vspdbdpecow01,Aplicado,172.30.154.28,Aplicado,Producción,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.8,ID600 - Datacenter Zona Franca
+SI158,DASHBOARD EMPLEABILIDAD,vspdapdashb01,Aplicado,172.30.163.63,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI158,DASHBOARD EMPLEABILIDAD,vspdbddashb01,Aplicado,172.31.2.210,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI158,DASHBOARD EMPLEABILIDAD,vspdbddashb02,Aplicado,172.31.2.211,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI159,EVALUACIONES EN LÍNEA -ECCL,sc0102d2z06,Aplicado,172.29.10.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI159,EVALUACIONES EN LÍNEA -ECCL,vspdapeclin01,Aplicado,172.29.52.12,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI159,EVALUACIONES EN LÍNEA -ECCL,vspdapeclin02,Aplicado,172.29.52.13,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI160,NUBE SENA NUEVA INTRANET,Intranet,Aplicado,,,Producción,Dirección IP:13.67.142.96,,Azure
+SI160,NUBE SENA NUEVA INTRANET,vsnubeapp01,,,,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI160,NUBE SENA NUEVA INTRANET,vsnubeapp02,,,,Producción,Capa : Herramienta ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),vsgovapp01,Aplicado,172.29.19.140,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Oracle Linux 7.9,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),vsgovapp02,Aplicado,172.29.19.141,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),vsgovapp03,Aplicado,172.29.19.142,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),vsgovapp04,Aplicado,172.29.19.143,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI167,SENA SALUD360,vspdapsal3601,Aplicado,172.29.52.22,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI167,SENA SALUD360,vspdapsal3602,Aplicado,172.29.52.21,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI167,SENA SALUD360,vspdbdsal3601,Aplicado,172.29.11.46,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI167,SENA SALUD360,vspdfssal3601,Aplicado,172.29.13.181,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI168,SENASOFT,vmdigapaa01,Aplicado,172.16.2.227,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI168,SENASOFT,vspdwebsoft01,Aplicado,172.29.19.160,Aplicado,Producción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.7,ID600 - Datacenter Zona Franca
+SI169,SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - EZPROXY,vsezproxy01,Aplicado,172.29.19.94,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.5,ID600 - Datacenter Zona Franca
+SI170,SISTEMA NACIONAL DE PRODUCCIÓN DE CENTROS DE FORMACIÓN-PASARELA DE PAGOS-WOMPI BANCOLOMBIA,vsliqapp01,Aplicado,172.29.18.11,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI171,SOPORTE DE AMBIENTE VIRTUAL DE APRENDIZAJE (SAVA),vspdapsava01,Aplicado,172.29.18.243,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI171,SOPORTE DE AMBIENTE VIRTUAL DE APRENDIZAJE (SAVA),vspdbdsava01,Aplicado,172.31.2.136,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.7,ID600 - Datacenter Zona Franca
+SI171,SOPORTE DE AMBIENTE VIRTUAL DE APRENDIZAJE (SAVA),vspdbdsava02,Aplicado,172.29.10.253,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI172,VISOR BLACKBOARD,pru-appservbb01,Aplicado,172.29.35.236,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.4,ID600 - Datacenter Zona Franca
+SI172,VISOR BLACKBOARD,pru-appservbb02,Aplicado,172.29.35.237,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.4,ID600 - Datacenter Zona Franca
+SI172,VISOR BLACKBOARD,vsorcldblms01,Aplicado,172.29.35.249,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.2,ID600 - Datacenter Zona Franca
+SI173,WORLDSKILLS,vmdigapaa01,Aplicado,172.16.2.227,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI173,WORLDSKILLS,vspdbdpecow01,Aplicado,172.30.154.28,Aplicado,Producción,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.8,ID600 - Datacenter Zona Franca
+SI174,MÓVIL FELIZMENTE,vspdapmfeliz01,Aplicado,172.30.163.74,Aplicado,Producción,Capa : Aplicación Y Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI174,MÓVIL FELIZMENTE,vsppapmfeliz01,Eliminado,,,Producción,Capa : Aplicación Y Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vspdapcmms01,Aplicado,172.29.19.145,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vspdapcmms02,Aplicado,172.29.19.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vspdbdcmms01,Aplicado,172.29.11.16,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vspdbdcmms02,Aplicado,172.29.11.17,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vspdfscmms01,Aplicado,172.29.19.200,Aplicado,Producción,,Red Hat Enterprise Linux 8.6,ID600 - Datacenter Zona Franca
+SI176,SISTEMA DE TRANSFORMACIÓN DIGITAL EN SALUD (TDS),vspdbdstsal01,Aplicado,172.31.0.81,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),sc01zdbadm12,Aplicado,172.29.10.188,Aplicado,Producción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),sc01zdbadm24,Aplicado,172.29.10.187,Aplicado,Producción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),vspdapsep01,Aplicado,172.30.163.177,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),vspdapsep02,Aplicado,172.30.163.178,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI178,SISTEMA DE INFORMACIÓN DE LA EJECUCIÓN DE LA FORMACIÓN VIRTUAL (SIEFV),vspdapsiefv01,Aplicado,172.29.19.147,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Ubuntu Linux 16.04,ID600 - Datacenter Zona Franca
+SI178,SISTEMA DE INFORMACIÓN DE LA EJECUCIÓN DE LA FORMACIÓN VIRTUAL (SIEFV),vspdbdsiefv01,Aplicado,172.29.11.23,Aplicado,Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI179,SISTEMA DE INFORMACIÓN DE PERMISOS SINDICALES (SIPS),sc0102d2z06,Aplicado,172.29.10.146,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI179,SISTEMA DE INFORMACIÓN DE PERMISOS SINDICALES (SIPS),vspdapsind01,Aplicado,172.30.163.50,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI179,SISTEMA DE INFORMACIÓN DE PERMISOS SINDICALES (SIPS),vspdapsind02,Aplicado,172.30.163.51,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vspdaprpabt01,Aplicado,172.30.163.103,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vspdaprpabt02,Aplicado,172.30.163.104,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vspdaprpabt03,Aplicado,172.30.163.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI181,RODOLFO,vspdaprdolf01,Aplicado,172.30.163.134,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI181,RODOLFO,vspdbdrdolf01,Aplicado,172.31.0.6,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI182,MODELO DE ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (MVO),sc01zdbadm11,Aplicado,172.29.11.228,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI182,MODELO DE ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (MVO),sc01zdbadm23,Aplicado,172.29.11.229,Aplicado,Producción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI182,MODELO DE ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (MVO),vspdapmvo01,Aplicado,172.30.163.75,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI182,MODELO DE ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (MVO),vspdapmvo02,Aplicado,172.30.163.76,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI182,MODELO DE ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (MVO),vspdapmvo03,Aplicado,172.30.163.77,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI182,MODELO DE ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (MVO),vspdapmvo04,Aplicado,172.30.163.78,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vspdapovirt04,Aplicado,172.30.163.120,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vspdapovirt05,Aplicado,172.30.163.121,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vspdapovirt06,Aplicado,172.30.163.122,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vspdapovirt07,Aplicado,172.30.163.123,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vspdbdovirt01,Aplicado,172.31.23.134,Aplicado,Producción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI186,RETOS,vspdapretos01,Aplicado,172.30.163.101,Aplicado,Producción,,Red Hat Enterprise Linux 8.6,ID600 - Datacenter Zona Franca
+SI186,RETOS,vspdapretos02,Aplicado,172.30.163.102,Aplicado,Producción,,Red Hat Enterprise Linux 8.6,ID600 - Datacenter Zona Franca
+SI186,RETOS,vspdbdretos01,Aplicado,169.254.22.168,Aplicado,Producción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI186,RETOS,vspdbdretos02,Aplicado,169.254.3.137,Aplicado,Producción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,sc01zfosbpd01,Aplicado,172.29.11.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,sc01zfosbpd02,Aplicado,172.29.11.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,sc01zfwlspd01,Aplicado,172.29.11.52,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,sc01zfwlspd02,Aplicado,172.20.10.6,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+ST001,BAYAEBOT,vspdaprpabt01,Aplicado,172.30.163.103,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST001,BAYAEBOT,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST002,EJECUBOT,vspdaprpabt01,Aplicado,172.30.163.103,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST002,EJECUBOT,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vspdaprpabt02,Aplicado,172.30.163.104,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vspdaprpabt03,Aplicado,172.30.163.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST004,INGREBOT,vspdaprpabt01,Aplicado,172.30.163.103,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST005,JUDIBOT,vspdaprpabt02,Aplicado,172.30.163.104,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST005,JUDIBOT,vspdaprpabt03,Aplicado,172.30.163.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST005,JUDIBOT,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST006,MODIPBOT,vspdaprpabt02,Aplicado,172.30.163.104,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST006,MODIPBOT,vspdaprpabt03,Aplicado,172.30.163.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST006,MODIPBOT,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST007,OLOBOT,vspdapbot02,Aplicado,172.30.163.245,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST007,OLOBOT,vspdbdbot01,Aplicado,172.31.0.134,Aplicado,Producción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST008,OPERBOT,vspdaprpabt02,Aplicado,172.30.163.104,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST008,OPERBOT,vspdaprpabt03,Aplicado,172.30.163.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST008,OPERBOT,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST009,PILABOT,vspdaprpabt01,Aplicado,172.30.163.103,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST009,PILABOT,vspdaprpabt03,Aplicado,172.30.163.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST010,PRESBOT,vspdaprpabt02,Aplicado,172.30.163.104,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST010,PRESBOT,vspdaprpabt03,Aplicado,172.30.163.105,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST010,PRESBOT,vspdaprpabt04,Aplicado,172.30.163.106,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+WS001,Rues_OSB,vspdapxroad01,Aplicado,172.30.163.65,Aplicado,Producción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+WS002,MEN_OSB,sc01zfosbpd01,Aplicado,172.29.11.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS002,MEN_OSB,sc01zfosbpd02,Aplicado,172.29.11.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS004,REGISTRADURIA SIRC - ANI,sc01zfosbpd01,Aplicado,172.29.11.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS004,REGISTRADURIA SIRC - ANI,sc01zfosbpd02,Aplicado,172.29.11.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,sc01zfosbpd01,Aplicado,172.29.11.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,sc01zfosbpd02,Aplicado,172.29.11.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS006,AUTENTICACION DIGITAL MINTIC,sc01zfosbpd01,Aplicado,172.29.11.48,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS006,AUTENTICACION DIGITAL MINTIC,sc01zfosbpd02,Aplicado,172.29.11.49,Aplicado,Producción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT004,MEGAHOPEX,vsppbdqamhop01,Aplicado,172.29.35.15,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vsdebdgobda01,Eliminado,,,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,OCI
+HT010,SENADATA,vsppapbogda02,Aplicado,172.17.0.1,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vsppapgobda01,Aplicado,172.30.164.68,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.7,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vsppbdorcl01,Aplicado,172.31.0.106,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),vsppapdashb01,Aplicado,172.30.164.28,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),vsppapsdcace01,Aplicado,172.30.164.143,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.5,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),vsppapsdcace02,Aplicado,172.30.164.144,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.5,ID600 - Datacenter Zona Franca
+HT014,SOLUCIÓN ANALÍTICA DATOS ABIERTOS,vsppapdashb01,Aplicado,172.30.164.28,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT014,SOLUCIÓN ANALÍTICA DATOS ABIERTOS,vsppbdorcl01,Aplicado,172.31.0.106,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vsppapsect01,Aplicado,172.30.164.150,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfadmpd01,Aplicado,172.29.11.41,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfadmqa01,Aplicado,172.29.10.130,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfdbpd01,Aplicado,172.29.11.122,Aplicado,Preproducción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfdbpd02,Aplicado,172.29.11.123,Aplicado,Preproducción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfdbqa01,Aplicado,172.29.10.197,Aplicado,Preproducción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfdbqa02,Aplicado,172.29.10.191,Aplicado,Preproducción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfmdlqa01,Aplicado,172.29.10.160,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT016,INTEROPERABILIDAD SENA CONTRALORÍA,sc01zfmdlqa02,Aplicado,172.29.10.213,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,vsppapdashb01,Aplicado,172.30.164.28,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,vsppapsdcace01,Aplicado,172.30.164.143,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.5,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,vsppapsdcace02,Aplicado,172.30.164.144,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.5,ID600 - Datacenter Zona Franca
+HT021,MODELOS ANALÍTICOS METAS DE FORMACIÓN,vsppapdashb01,Aplicado,172.30.164.28,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT021,MODELOS ANALÍTICOS METAS DE FORMACIÓN,vsppbdorcl01,Aplicado,172.31.0.106,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,vsppapdashb01,Aplicado,172.30.164.28,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,vsppapsdcace01,Aplicado,172.30.164.143,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.5,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,vsppapsdcace02,Aplicado,172.30.164.144,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.5,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vsppbdkactus02,Aplicado,172.31.2.102,Aplicado,Preproducción,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspprdkact01,Aplicado,172.29.33.221,Aplicado,Preproducción,Capa : Infraestructura ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vsppwebkact01,Aplicado,172.30.164.55,Aplicado,Preproducción,Capa : Licenciamiento ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vsppapsgva01,Aplicado,172.30.164.74,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI007,SISTEMA DE INFORMACIÓN DE GESTIÓN VIRTUAL DE APRENDICES (SGVA),vsppbdsgva01,Aplicado,172.31.0.49,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI009,CORREO ELECTRÓNICO MISENA,vsppapmsena01,Aplicado,172.30.164.63,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,sc01zdbadm27,Aplicado,169.254.14.198,Aplicado,Preproducción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsppapobase01,Aplicado,172.30.164.151,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsppapobase02,Aplicado,172.30.164.152,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsppapobase03,Aplicado,172.30.164.153,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsppfsobase04,Aplicado,172.30.164.154,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,pru-bdportalsql,Aplicado,172.29.14.140,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),vsdebdorcl01,Aplicado,172.30.162.153,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),vspdapsma01,Aplicado,172.30.163.147,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI021,SISTEMA DE GESTIÓN DE CENTROS (SGC),vsppapsgc01,Aplicado,172.30.164.64,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),pru-vssecclbd02,Aplicado,172.29.33.228,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2008 R2,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vsppapbackgx01,Aplicado,172.30.164.136,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vsppapseccl01,Aplicado,172.30.164.36,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vsppapseccl02,Aplicado,172.30.164.51,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vsppapseccl03,Aplicado,172.29.17.96,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI022,SISTEMA DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES (SECCL),vsppapseccl04,Aplicado,172.29.11.247,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsppapfidig01,Aplicado,169.254.69.144,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsppapfidig02,Aplicado,169.254.54.46,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vsppapfidig03,Aplicado,169.254.220.127,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vsppapsofia02,Aplicado,172.29.35.106,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vsppsofrelay01,Aplicado,172.30.164.161,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),sc01iod2z11,Aplicado,172.29.11.213,Aplicado,Preproducción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 10,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsppapape01,Aplicado,172.30.164.44,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 6.5,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsppapapesh01,Aplicado,172.30.164.109,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsppapapetr01,Aplicado,172.30.164.83,Aplicado,Preproducción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsppapwkape01,Aplicado,172.30.164.110,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsppbdwkape01,Aplicado,172.31.23.107,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vsppapoblab01,Aplicado,172.30.164.59,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vsppapoblab02,Aplicado,172.29.33.175,Aplicado,Preproducción,Capa: Aplicación,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vsppbdoblab01,Aplicado,172.31.22.248,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI050,COSTOS WEB,vsppapcost01,Aplicado,172.30.164.31,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vsppapchatb01,Aplicado,172.29.33.233,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vsppapchatb02,Aplicado,172.29.33.142,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vsppapchform01,Aplicado,172.30.164.22,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vsppapchform02,Aplicado,172.30.164.23,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vsppbdchbot01,Aplicado,172.29.35.19,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vsppbdchform01,Aplicado,172.31.1.67,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI078,PORTAL PQRSD,vspdbdpqrs02,Aplicado,169.254.24.120,Aplicado,Preproducción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI078,PORTAL PQRSD,vsppbdpqrs01,Aplicado,172.31.4.181,Aplicado,Preproducción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI078,PORTAL PQRSD,vssacpre01,Aplicado,172.29.33.143,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),pru-snftdevapp01,Aplicado,172.29.35.125,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppapcompe01,Aplicado,172.30.164.37,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppapcompe02,Aplicado,172.30.164.52,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppapdsnft01,Aplicado,172.30.164.35,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppapdsnft02,Aplicado,172.30.164.50,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppapdsnft04,Aplicado,172.30.164.135,Aplicado,Preproducción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppapseccl01,Aplicado,172.30.164.36,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppapseccl02,Aplicado,172.30.164.51,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsppbddsnft01,Aplicado,172.31.2.200,Aplicado,Preproducción,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI092,MICROSOFT CRM - ON PREMISE,vscrmsql03,Aplicado,169.254.3.129,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI093,COMPROMISO SISTEMA INTEGRADO DE GESTIÓN Y AUTOCONTROL SIGA,vsppapcompro01,Aplicado,172.30.164.46,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,vsdebdorcl01,Aplicado,172.30.162.153,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,vsppapvivda01,Aplicado,172.30.164.75,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI099,BUS DE DATOS,vsppapbus01,Aplicado,172.30.164.42,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI099,BUS DE DATOS,vsppbdbus01,Aplicado,172.29.35.130,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI102,CÓDIGO DE BARRAS - SPU,vsppapcodib01,Aplicado,172.30.164.118,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI106,REDMINE,vsppaprmine01,Aplicado,172.30.164.107,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI107,SOPORTE Y MANTENIMIENTO DE APLICATIVOS - WIKI,vsppapwiki01,Aplicado,172.30.164.122,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI111,GXSERVER,vspdapgenx01,Aplicado,172.30.163.42,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vsppapminv01,Aplicado,172.30.164.60,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vsppapsicon01,Aplicado,172.30.164.70,Aplicado,Preproducción,Capa: Aplicación,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vsppbdsep01,Aplicado,172.31.0.231,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vsppapspu01,Aplicado,172.30.164.32,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vsppapspu02,Aplicado,169.254.166.56,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI123,SISTEMA DE INFORMACIÓN DE LA ENI (SIENI),vsppapsieni01,Aplicado,172.29.35.140,Aplicado,Preproducción,Capa: Base De Datos,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vsppapcdoc01,Aplicado,172.30.164.98,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vsppapcdoc02,Aplicado,172.30.164.99,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vsppbdcdoc,Eliminado,,,Preproducción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI124,CONTROLDOC,vsppbdcostos01,Aplicado,172.31.2.174,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI125,BLACKBOX,vsppapblbox01,Aplicado,172.30.164.73,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),vsppapcsst01,Aplicado,172.30.164.53,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),vsppapsst01,,,,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI127,NORMOGRAMA,vsppapnorm01,Aplicado,172.30.164.120,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI130,GESTIONWEB (WEBSUPPORT),vsppapwebsu01,Aplicado,169.254.12.161,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI130,GESTIONWEB (WEBSUPPORT),vsprebdaconv01,Aplicado,172.31.0.28,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI136,SISTEMA AUTO AUDITORIA DE CONTROL INTERNO (AUTOAUDIT),vsppbdaudit01,Aplicado,172.31.22.110,Aplicado,Preproducción,,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI137,SISTEMA DE INTELIGENCIA ORGANIZACIONAL DEL SENA (SIOS),pru-onpcoesql01,Eliminar,,,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI137,SISTEMA DE INTELIGENCIA ORGANIZACIONAL DEL SENA (SIOS),vspdbdsios02,Aplicado,,,Preproducción,,,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsppapgescon01,Aplicado,172.29.35.201,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI140,PROYECTO GESTIÓN DE CONOCIMIENTO,vsppbdgescon01,Aplicado,172.29.35.202,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI142,SISTEMA DE INFORMACIÓN DE BIBLIOTECAS - Repositorio institucional DSPACE,vsppapblds01,Eliminado,,,Preproducción,WWPN HBA : N/A ;  No de Tarjetas de Red : 1,,OCI
+SI146,JASPER,vsppapjasp01,Aplicado,172.30.164.61,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI146,JASPER,vsppapjasp02,Aplicado,172.30.164.71,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vsppapcsir01,Aplicado,172.30.164.129,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vsppapsirec01,Aplicado,172.30.164.49,Aplicado,Preproducción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vsppapsirec02,Aplicado,172.30.164.45,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vsppapcsir01,Aplicado,172.30.164.129,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vsppapsirec01,Aplicado,172.30.164.49,Aplicado,Preproducción,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vsppapsirec02,Aplicado,172.30.164.45,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI150,MICROSOFT CRM - ON LINE,vspdapcrmpb01,Aplicado,172.30.163.119,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI150,MICROSOFT CRM - ON LINE,vsppapcrmpb01,Aplicado,172.30.164.117,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI151,SISTEMA DE VOTO ELECTRÓNICO,qavotaciondb,Aplicado,172.29.35.78,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 8.9,ID600 - Datacenter Zona Franca
+SI151,SISTEMA DE VOTO ELECTRÓNICO,vspdftpvot01,Aplicado,172.30.163.36,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI151,SISTEMA DE VOTO ELECTRÓNICO,vsppapvota01,Aplicado,172.29.33.156,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI152,INTRASUITE,vsppapisuit01,Aplicado,172.30.164.67,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI152,INTRASUITE,vsppbdisuit01,Aplicado,172.31.23.3,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsppaplabc01,Aplicado,172.30.164.25,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsppaplabc02,Aplicado,172.30.164.26,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vspreapconv01,Aplicado,172.30.164.10,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vspreapconv02,Aplicado,172.30.164.11,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vspreapconv03,Aplicado,172.30.164.12,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprebdaconv01,Aplicado,172.31.0.28,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsprebdaconv02,Aplicado,172.31.0.29,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI155,SISTEMA DE INFORMACIÓN CARGUE Y REPORTE EVALUACIÓN DE DESEMPEÑO (SED),vsppapeva01,Aplicado,172.30.164.30,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI155,SISTEMA DE INFORMACIÓN CARGUE Y REPORTE EVALUACIÓN DE DESEMPEÑO (SED),vsppbdorcl01,Aplicado,172.31.0.106,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI156,CLASIFICACIÓN ÚNICA DE OCUPACIONES PARA COLOMBIA (CUOC),vsppapcuoc01,Aplicado,172.30.164.56,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI156,CLASIFICACIÓN ÚNICA DE OCUPACIONES PARA COLOMBIA (CUOC),vsppbdcuoc01,Aplicado,172.31.22.234,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI158,DASHBOARD EMPLEABILIDAD,vsppapdashb01,Aplicado,172.30.164.28,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI159,EVALUACIONES EN LÍNEA -ECCL,vsppapseccl01,Aplicado,172.30.164.36,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI159,EVALUACIONES EN LÍNEA -ECCL,vsppapseccl02,Aplicado,172.30.164.51,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI161,PLAN DE ACCIÓN - WEB OPERATIVA,vsppapplana01,Aplicado,172.30.164.62,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI161,PLAN DE ACCIÓN - WEB OPERATIVA,vsppbdplana01,Aplicado,172.31.23.9,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI168,SENASOFT,pru-senasoftweb01,Aplicado,172.29.35.97,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Ubuntu Linux 16.04,ID600 - Datacenter Zona Franca
+SI168,SENASOFT,vsppapsesoft01,Aplicado,172.29.33.199,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI171,SOPORTE DE AMBIENTE VIRTUAL DE APRENDIZAJE (SAVA),vsppapsava01,Eliminar,,,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vsppapcmms01,Eliminado,,,Preproducción,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vsppbdcmms01,Eliminado,,,Preproducción,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI176,SISTEMA DE TRANSFORMACIÓN DIGITAL EN SALUD (TDS),vsppbdstsal01,Aplicado,169.254.238.178,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),vsppapsep01,Aplicado,172.30.164.21,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),vsppbdsep01,Aplicado,172.31.0.231,Aplicado,Preproducción,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI179,SISTEMA DE INFORMACIÓN DE PERMISOS SINDICALES (SIPS),vsppapsind01,Aplicado,172.30.164.29,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vsppaprpabt01,Aplicado,172.30.164.101,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vsppaprpabt03,Aplicado,172.30.164.103,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vsppaprpabt04,Aplicado,172.30.164.104,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI180,AUTOMATION ANYWHERE,vsppbdrpabt01,Aplicado,172.31.23.97,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI181,RODOLFO,vsppaprdolf01,Aplicado,172.30.164.106,Aplicado,Preproducción,Capa : Aplicación Y Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI181,RODOLFO,vsppbdrdolf01,Aplicado,169.254.84.7,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vsppapovirt04,Aplicado,172.30.164.123,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vsppapovirt05,Aplicado,172.30.164.124,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vsppapovirt06,Aplicado,172.30.164.125,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI183,OFICINA VIRTUAL DE RADICACIÓN,vsppapovirt07,Aplicado,172.30.164.126,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI184,LICENCIAMIENTO GENEXUS,vsppapgenx01,Aplicado,169.254.248.96,Aplicado,Preproducción,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,sc01zfmdlqa01,Aplicado,172.29.10.160,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,sc01zfmdlqa02,Aplicado,172.29.10.213,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+ST001,BAYAEBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST001,BAYAEBOT,vsppaprpabt01,Aplicado,172.30.164.101,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST001,BAYAEBOT,vsppaprpabt04,Aplicado,172.30.164.104,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST001,BAYAEBOT,vsppbdrpabt01,Aplicado,172.31.23.97,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST002,EJECUBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST002,EJECUBOT,vsppaprpabt01,Aplicado,172.30.164.101,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST002,EJECUBOT,vsppaprpabt03,Aplicado,172.30.164.103,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST002,EJECUBOT,vsppbdrpabt01,Aplicado,172.31.23.97,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vsppaprpabt01,Aplicado,172.30.164.101,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vsppaprpabt03,Aplicado,172.30.164.103,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vsppaprpabt04,Aplicado,172.30.164.104,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST003,HOCENBOT,vsppbdrpabt01,Aplicado,172.31.23.97,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST004,INGREBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST004,INGREBOT,vsppaprpabt01,Aplicado,172.30.164.101,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST004,INGREBOT,vsppaprpabt03,Aplicado,172.30.164.103,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST004,INGREBOT,vsppaprpabt04,Aplicado,172.30.164.104,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST004,INGREBOT,vsppbdrpabt01,Aplicado,172.31.23.97,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST005,JUDIBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST006,MODIPBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST007,OLOBOT,vsppapbot01,Aplicado,172.30.164.15,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST007,OLOBOT,vsppapbot02,Aplicado,172.30.164.16,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST007,OLOBOT,vsppapbot03,Aplicado,172.30.164.20,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST007,OLOBOT,vsppbdbot01,Aplicado,172.31.0.53,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST008,OPERBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST009,PILABOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST009,PILABOT,vsppaprpabt01,Aplicado,172.30.164.101,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST009,PILABOT,vsppaprpabt04,Aplicado,172.30.164.104,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST009,PILABOT,vsppbdrpabt01,Aplicado,172.31.23.97,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+ST010,PRESBOT,vspdbdrpabt01,Aplicado,172.31.22.170,Aplicado,Preproducción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+WS001,Rues_OSB,sc01zfadmqa01,Aplicado,172.29.10.130,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS001,Rues_OSB,sc01zfdbqa01,Aplicado,172.29.10.197,Aplicado,Preproducción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS001,Rues_OSB,sc01zfdbqa02,Aplicado,172.29.10.191,Aplicado,Preproducción,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS001,Rues_OSB,sc01zfmdlqa01,Aplicado,172.29.10.160,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS001,Rues_OSB,sc01zfmdlqa02,Aplicado,172.29.10.213,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS002,MEN_OSB,sc01zfmdlqa01,Aplicado,172.29.10.160,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS002,MEN_OSB,sc01zfmdlqa02,Aplicado,172.29.10.213,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS004,REGISTRADURIA SIRC - ANI,sc01zfmdlqa01,Aplicado,172.29.10.160,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS004,REGISTRADURIA SIRC - ANI,sc01zfmdlqa02,Aplicado,172.29.10.213,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,sc01zfadmpd01,Aplicado,172.29.11.41,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,sc01zfadmqa01,Aplicado,172.29.10.130,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,sc01zfmdlqa01,Aplicado,172.29.10.160,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,sc01zfmdlqa02,Aplicado,172.29.10.213,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS006,AUTENTICACION DIGITAL MINTIC,sc01zfmdlqa01,Aplicado,172.29.10.160,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+WS006,AUTENTICACION DIGITAL MINTIC,sc01zfmdlqa02,Aplicado,172.29.10.213,Aplicado,Preproducción,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vspdbdogag01,Aplicado,169.254.1.64,Aplicado,Pendiente Paso A Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI131,GEOSENA,vspdbdogag01,Aplicado,169.254.1.64,Aplicado,Pendiente Paso A Producción,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),vsppbdapetr01,Aplicado,172.31.3.247,Aplicado,Desarrollo/Sandbox Preproducción,,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vsdeapgobda01,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+HT010,SENADATA,vsdeapgobda02,Eliminado,,,Desarrollo/Sandbox,,,OCI
+HT010,SENADATA,vsdeapgobda03,Eliminado,,,Desarrollo/Sandbox,,,OCI
+HT010,SENADATA,vsdeapgobda04,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+HT010,SENADATA,vsdeapgobda05,Aplicado,172.17.0.1,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT010,SENADATA,vspdbdgobda01,Aplicado,172.31.0.108,Aplicado,Desarrollo/Sandbox,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),sc01zdbadm10,Aplicado,172.29.10.17,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT012,Gestión Aceleradores y Estrategias (GAE),sc01zdbadm22,Aplicado,172.29.10.179,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT014,SOLUCIÓN ANALÍTICA DATOS ABIERTOS,vspdbdgobda01,Aplicado,172.31.0.108,Aplicado,Desarrollo/Sandbox,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,sc01zdbadm10,Aplicado,172.29.10.17,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,sc01zdbadm22,Aplicado,172.29.10.179,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,sc01zdbadm10,Aplicado,172.29.10.17,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,sc01zdbadm22,Aplicado,172.29.10.179,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT018,PORTAL ANALÍTICA DEL SENA,vsdeapgobda01,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+HT018,PORTAL ANALÍTICA DEL SENA,vsdeapgobda03,Eliminado,,,Desarrollo/Sandbox,,,OCI
+HT021,MODELOS ANALÍTICOS METAS DE FORMACIÓN,vspdbdgobda01,Aplicado,172.31.0.108,Aplicado,Desarrollo/Sandbox,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,sc01zdbadm10,Aplicado,172.29.10.17,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+HT022,SEGUIMIENTO A PROYECTOS Y PRESUPUESTOS,sc01zdbadm22,Aplicado,172.29.10.179,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI004,KACTUS,sc01zdbadm26,Aplicado,172.29.11.39,Aplicado,Desarrollo/Sandbox,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vsderdkact01,Aplicado,172.30.176.74,Aplicado,Desarrollo/Sandbox,Capa: Infraestructura,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsdeapobase02,Aplicado,172.30.176.112,Aplicado,Desarrollo/Sandbox,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsdeapobase03,Aplicado,172.30.176.113,Aplicado,Desarrollo/Sandbox,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vsdefsobase04,Aplicado,172.30.176.114,Aplicado,Desarrollo/Sandbox,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vsdeapsofia02,Aplicado,172.30.176.33,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsdeapapetr01,Aplicado,172.30.176.142,Aplicado,Desarrollo/Sandbox,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI034-2,AGENCIA PÚBLICA DE EMPLEO (TRANSACCIONAL),vsdebdapetr01,Aplicado,172.30.162.163,Aplicado,Desarrollo/Sandbox,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Solaris 11.4,ID600 - Datacenter Zona Franca
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vsdeapoblab01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+SI040,OBSERVATORIO LABORAL Y OCUPACIONAL,vsdebdoblab01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsdeapdsnft01,Aplicado,172.29.14.139,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsdeapdsnft02,Aplicado,172.29.35.250,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI091,SISTEMA DE LA DIRECCIÓN DE FORMACIÓN PARA EL TRABAJO (DSNFT),vsdebddsnft01,Aplicado,172.29.33.134,Aplicado,Desarrollo/Sandbox,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2008 R2,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,vsfliasenapp03,,,,Desarrollo/Sandbox,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI105,MANTIS BUGTRAKER,vsdeapmant01tmp,Eliminado,,,Desarrollo/Sandbox,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI105,MANTIS BUGTRAKER,vspdapmant01,Aplicado,172.30.163.28,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI105,MANTIS BUGTRAKER,vsppapmant02,Aplicado,172.30.164.128,Aplicado,Desarrollo/Sandbox,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI107,SOPORTE Y MANTENIMIENTO DE APLICATIVOS - WIKI,vspdapwiki01,Aplicado,172.30.163.95,Aplicado,Desarrollo/Sandbox,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI111,GXSERVER,vsfliasenapp01,Aplicado,172.29.19.178,Aplicado,Desarrollo/Sandbox,Capa: Aplicación,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vsdebdsicon01,Aplicado,172.30.162.146,Aplicado,Desarrollo/Sandbox,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vsfliasenapp03,,,,Desarrollo/Sandbox,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI121,SERVICIO MÉDICO ASISTENCIAL - SPU,vsfliasenapp05,Eliminado,192.168.157.57,Aplicado,Desarrollo/Sandbox,,Windows Server 2012 R2,OCI
+SI125,BLACKBOX,vsdeapblbox01,Aplicado,172.30.176.66,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI136,SISTEMA AUTO AUDITORIA DE CONTROL INTERNO (AUTOAUDIT),vsdebdaudit01,Aplicado,172.30.162.156,Aplicado,Desarrollo/Sandbox,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vsdeapcsir01,Eliminado,172.30.176.23,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vsdeapsirec01,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vsdeapsirec02,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vsdebdsirec01,Aplicado,172.30.176.135,Aplicado,Desarrollo/Sandbox,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI148,"SISTEMA DE INFORMACIÓN DE RECAUDO, CARTERA Y COBRO COACTIVO (SIREC)",vssirecbd03,Eliminado,,,Desarrollo/Sandbox,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vsdeapcsir01,Eliminado,172.30.176.23,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vsdeapsirec01,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vsdeapsirec02,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI048 -2,SIREC - CERTIFICADOS EMPRESARIOS,vssirecbd03,Eliminado,,,Desarrollo/Sandbox,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI150,MICROSOFT CRM - ON LINE,vsdeapcrmpb01,Aplicado,172.30.176.90,Aplicado,Desarrollo/Sandbox,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vsdeapconv01,Aplicado,172.30.176.87,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI154,CONVOCATORIAS SENNOVA,vspresvconv02,Aplicado,172.30.164.14,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI161,PLAN DE ACCIÓN - WEB OPERATIVA,vsdeapgenx09,Eliminado,,,Desarrollo/Sandbox,,,OCI
+SI161,PLAN DE ACCIÓN - WEB OPERATIVA,vsdebddsnft01,Aplicado,172.29.33.134,Aplicado,Desarrollo/Sandbox,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2008 R2,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),sc01zdbadm10,Aplicado,172.29.10.17,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),sc01zdbadm22,Aplicado,172.29.10.179,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),vsdeapsadam01,Aplicado,172.29.16.118,Aplicado,Desarrollo/Sandbox,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),vsdeapsadam02,Aplicado,172.29.16.119,Aplicado,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI165,SISTEMA DE ADMINISTRACIÓN DE DATOS MAESTROS (SADAM),vsdeapsadam03,Aplicado,172.30.176.139,Aplicado,Desarrollo/Sandbox,,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+SI168,SENASOFT,vsdeapssoft01,Aplicado,172.30.176.94,Aplicado,Desarrollo/Sandbox,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Ubuntu Linux 16.04,ID600 - Datacenter Zona Franca
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vsdeapcmms01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+SI175,MANTUM COMPUTER MANAGEMENT MAINTENANCE SYSTEM (CMMS),vsdebdcmms01,Eliminado,,,Desarrollo/Sandbox,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),vsdeapsep01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+SI177,SISTEMA EMPRESARIAL DE PROYECTOS (SEP),vsdebdsep01,Eliminado,,,Desarrollo/Sandbox,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI180,AUTOMATION ANYWHERE,vsdeaprpa02,Eliminado,,,Desarrollo/Sandbox,,,OCI
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,sc01zdbadm10,Aplicado,172.29.10.17,Aplicado,Desarrollo/Sandbox,Capa : Base de Datos ;  No de Tarjetas Fiber Channel : N/A,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI187,PORTAL DE INTEROPERABILIDADES DEL SENA,vspdbdgobda01,Aplicado,172.31.0.108,Aplicado,Desarrollo/Sandbox,"Capa: Base de Datos, No de Tarjetas Fiber Channel: N/A",Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+ST001,BAYAEBOT,vsdeapcntel01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST001,BAYAEBOT,vsdeaprpa03,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST001,BAYAEBOT,vsdebdcntel01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST002,EJECUBOT,vsdeapcntel01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST002,EJECUBOT,vsdeaprpa03,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST002,EJECUBOT,vsdebdcntel01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST004,INGREBOT,vsdeaprpa01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST004,INGREBOT,vsdeaprpa02,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST004,INGREBOT,vsdeaprpa03,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST004,INGREBOT,vsdebdcntel01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST009,PILABOT,vsdeaprpa01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST009,PILABOT,vsdeaprpa02,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST009,PILABOT,vsdeaprpa03,Eliminado,,,Desarrollo/Sandbox,,,OCI
+ST009,PILABOT,vsdebdcntel01,Eliminado,,,Desarrollo/Sandbox,,,OCI
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,oracle-odi-inst-kcuo,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,vsdeapinterop01,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,vsdeapinterop02,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,vsdeapsoa01-soa-0,Eliminado,,,Desarrollo/Sandbox,Capa : Aplicacion ;  No de Tarjetas Fiber Channel : N/A,,OCI
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,vsdebdsoa01,Eliminado,,,Desarrollo/Sandbox,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,OCI
+WS005,INTERFAZ SERVICIOS DEL BUS DE DATOS OSB,vsdedbintopodi01,Eliminado,,,Desarrollo/Sandbox,Capa: Base Datos  ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),vsppapsma01,Aplicado,169.254.185.52,Aplicado,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI018,SISTEMA ADMINISTRATIVO ORIONS,vsdewebsacb01,,,,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsdeapapesh01,Aplicado,172.30.176.79,Aplicado,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsdeapwkape01,Aplicado,172.30.176.86,Aplicado,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vsdebdwkape01,Aplicado,172.30.162.152,Aplicado,Desarrollo,Capa : Base De Datos ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI098,SISTEMA DE GESTIÓN DE PROYECTO SENNOVA,VMVRSNV-3,Aplicado,,,Desarrollo,Dirección IP:  10.1.0.7,,Azure
+SI111,GXSERVER,vsdeapgenx01,Eliminado,,,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI111,GXSERVER,vsgxapp09,Aplicado,172.29.52.31,Aplicado,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI111,GXSERVER,vspdapgenxs03,,,,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI111,GXSERVER,vxgxserver01,Aplicado,169.254.247.191,Aplicado,Desarrollo,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,sc01zfdbcdoc01,Aplicado,172.29.20.212,Aplicado,Desarrollo,Capa : Base de datos ;  No de Tarjetas Fiber Channel : N/A,,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vsppapkact01,Aplicado,172.30.168.25,Aplicado,Capacitación,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vscapapsofia01,Aplicado,172.29.35.160,Aplicado,Capacitación,Capa : Aplicación ;  No de Tarjetas Fiber Channel : N/A,Red Hat Enterprise Linux 7.9,ID600 - Datacenter Zona Franca
+HT001,AD CONNECT O365 ACTIVE DIRECTORY,vspdadcnt01,Aplicado,172.30.163.176,Aplicado,,,Windows Server 2019,ID601 - Datacenter Odata
+HT001,AD CONNECT O365 ACTIVE DIRECTORY,vspdadcon01,Aplicado,172.30.163.39,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT004,MEGAHOPEX,vsdeaphopex01,Eliminado,,,,,,OCI
+HT004,MEGAHOPEX,vsdebdhopex01,Eliminado,,,,,,OCI
+HT004,MEGAHOPEX,vsmegahopexdb,Aplicado,172.29.10.221,Aplicado,,Capa: Base De Datos,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT004,MEGAHOPEX,vsppapqamhop01,Aplicado,172.29.33.155,Aplicado,,Capa: Aplicación,Windows Server 2016,ID600 - Datacenter Zona Franca
+HT009,SENA PLUS,vspdapsvivot01,Eliminar,,,,,,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vsdeapsect01,Aplicado,172.30.176.136,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+HT015,Sede Electrónica Componente Tramites,vspdapsect06,Aplicado,172.30.163.226,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspdrdkact04,Aplicado,172.29.19.185,Aplicado,,Capa: Aplicación,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI004,KACTUS,vspprdkact02,Aplicado,172.30.164.33,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI008,CORREO INSTITUCIONAL EXCHANGE,vspdapexch04,Eliminado,192.168.160.74,Aplicado,,,Windows Server 2016,OCI
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdapobase01,Aplicado,172.29.18.233,Aplicado,,Capa: Infraestructura,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdapobase07,Aplicado,172.30.163.160,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI010,GESTIÓN DOCUMENTAL ONBASE,vspdfsobase01,Aplicado,172.30.163.240,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI013,PORTAL WEB INSTITUCIONAL,vsdeapshpa01,Eliminado,,,,,,OCI
+SI013,PORTAL WEB INSTITUCIONAL,vsdeapshpf01,Eliminado,,,,,,OCI
+SI014,SERVICIO MÉDICO ASISTENCIAL (SMA),vspdapsma02,Aplicado,172.30.163.148,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,sc0102d2z09,Aplicado,172.29.10.126,Aplicado,,,Solaris 11.4,ID600 - Datacenter Zona Franca
+SI026,FIRMA DIGITAL_CERTIFICACIONES,vspdapfidig05,Aplicado,172.30.163.166,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds07,Aplicado,172.30.132.229,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdadds08,Aplicado,172.30.132.227,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI028,DIRECTORIO ACTIVO,vspdaddsaz09,Aplicado,172.41.0.4,Aplicado,,,Windows Server 2019,Azure
+SI028,DIRECTORIO ACTIVO,vspdapadcs03,Aplicado,172.30.163.97,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI031,SISTEMA DE INFORMACIÓN OPTIMIZADO PARA LA FORMACIÓN INTEGRAL Y EL APRENDIZAJE ACTIVO (SOFIA PLUS),vspdapsoftp01,Aplicado,172.29.19.240,Aplicado,,Capa: Aplicación,Windows Server 2012 R2,ID600 - Datacenter Zona Franca
+SI034-1,AGENCIA PÚBLICA DE EMPLEO (PORTAL),vspdapspape24,Aplicado,172.30.163.193,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI056,CHATBOT AGENTI,vspdapchform02,Aplicado,172.30.163.23,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI078,PORTAL PQRSD,vspdappqrs01,Aplicado,172.30.163.151,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI078,PORTAL PQRSD,vspdappqrs02,Aplicado,172.30.163.152,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI094,SISTEMA FONDO NACIONAL DE VIVIENDA DEL SENA,vspdapvivda01,Aplicado,172.30.163.117,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI098,SISTEMA DE GESTIÓN DE PROYECTO SENNOVA,semilla,Aplicado,,,,,,Azure
+SI099,BUS DE DATOS,vsdeapbus01,Eliminado,,,,,,OCI
+SI104,SEDE ELECTRÓNICA,sena2,,,,,"Capa: Aplicación, No de Tarjetas Fiber Channel: N/A",,ID600 - Datacenter Zona Franca
+SI107,SOPORTE Y MANTENIMIENTO DE APLICATIVOS - WIKI,vsdeapwiki01,Eliminado,,,,,,OCI
+SI109,SISTEMA DE AUTOEVALUACIÓN PROGRAMAS DE FORMACIÓN (AUTOEVALUACION),vmdigvrma11,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI109,SISTEMA DE AUTOEVALUACIÓN PROGRAMAS DE FORMACIÓN (AUTOEVALUACION),vsautoevapp01,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI109,SISTEMA DE AUTOEVALUACIÓN PROGRAMAS DE FORMACIÓN (AUTOEVALUACION),vsautoevbdd01,,,,,Capa: Base De Datos,,ID600 - Datacenter Zona Franca
+SI109,SISTEMA DE AUTOEVALUACIÓN PROGRAMAS DE FORMACIÓN (AUTOEVALUACION),vsautoevbdd03,,,,,Capa: Base De Datos,,ID600 - Datacenter Zona Franca
+SI109,SISTEMA DE AUTOEVALUACIÓN PROGRAMAS DE FORMACIÓN (AUTOEVALUACION),vsdigapaa02,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI109,SISTEMA DE AUTOEVALUACIÓN PROGRAMAS DE FORMACIÓN (AUTOEVALUACION),vsdigapaa03,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI110,REPOSITORIO SVN DESARROLLOS,vspdapsvn01,Aplicado,172.30.163.34,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI110,REPOSITORIO SVN DESARROLLOS,vsppapsvn01,Aplicado,169.254.154.109,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI111,GXSERVER,vsdeapgxser01,Aplicado,172.29.52.105,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI114,PÁGINA MI INVENTARIO,vsdeapgenx08,Eliminado,169.254.32.117,Aplicado,,,,OCI
+SI115,CERTIFICACIONES RESOLUCIONES Y ENCARGOS,vspdbdgenx02,,,,,Capa: Base De Datos,,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vsgenexusbd01,,,,,Capa: Base De Datos,,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vsgxapp01,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vsgxapp02,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vspdapgenex03,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vspdapsicon01,Aplicado,172.30.163.110,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vspdapsicon02,Aplicado,172.30.163.111,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI117,SISTEMA DE INFORMACIÓN DE CONTRATISTAS (SIC),vspdapsicon03,Aplicado,172.30.163.112,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI123,SISTEMA DE INFORMACIÓN DE LA ENI (SIENI),psnmvboggxrpt,Aplicado,172.29.33.168,Aplicado,,Capa: Base De Datos,Windows Server 2012,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vsdeapcdoc01,Eliminado,,,,,,OCI
+SI124,CONTROLDOC,vspdapcdoc01,Aplicado,172.30.163.124,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vspdapcdoc02,Aplicado,172.30.163.125,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI124,CONTROLDOC,vsppbdsep01,Eliminado,,,,Capa : Base Datos ;  No de Tarjetas Fiber Channel : N/A,,OCI
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),vspdapcsst01,Aplicado,172.30.163.126,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI126,CAPACITACIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO (SST),vspdapcsst02,Aplicado,172.30.163.127,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI127,NORMOGRAMA,vsnormoapp01,,,,,Capa: Aplicación,,ID600 - Datacenter Zona Franca
+SI130,GESTIONWEB (WEBSUPPORT),vspdapwebsu01,Aplicado,172.30.163.173,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI133,SOFTWARE IDEA-CONTROL INTERNO,vspdapidea01,Aplicado,172.30.163.229,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI134,SISTEMA DE INFORMACIÓN DISCIPLINARIA (SID3),vspdapsid01,Aplicado,172.30.163.146,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI134,SISTEMA DE INFORMACIÓN DISCIPLINARIA (SID3),vspdbdsid01,Aplicado,172.31.23.154,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI151,SISTEMA DE VOTO ELECTRÓNICO,vspdapvota03,Aplicado,172.29.52.43,Aplicado,,,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI151,SISTEMA DE VOTO ELECTRÓNICO,vspdapvota04,Aplicado,172.29.52.44,Aplicado,,,Windows Server 2016,ID600 - Datacenter Zona Franca
+SI152,INTRASUITE,vspdbdisuit02,Aplicado,169.254.2.87,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI152,INTRASUITE,vspdbdisuit03,Aplicado,169.254.1.220,Aplicado,,,Windows Server 2019,ID600 - Datacenter Zona Franca
+SI158,DASHBOARD EMPLEABILIDAD,vsdesapdasb01,Eliminado,,,,,,OCI
+SI181,RODOLFO,vsdeaprdolf01,Eliminado,,,,,,OCI
