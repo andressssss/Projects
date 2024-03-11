@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework import viewsets
-from .models import lineabase, eventos, CMDB, llave, CMDBvsEventos
-from .serializers import lineabaseSerializer, eventosSerializer, CMDBSerializer, llaveSerializer, CMDBvsEventosSerializer
+from .models import lineabase, eventos, CMDB, llave, CMDBvsEventos, LineabasevsEventos
+from .serializers import lineabaseSerializer, eventosSerializer, CMDBSerializer, llaveSerializer, CMDBvsEventosSerializer, LineabasevsEventosSerializer
 
 class lineabaseViewSet(viewsets.ModelViewSet):
     serializer_class = lineabaseSerializer
@@ -22,3 +22,7 @@ class llaveViewSet(viewsets.ModelViewSet):
 class CMDBvsEventosViewSet(viewsets.ModelViewSet):
     serializer_class = CMDBvsEventosSerializer
     queryset = CMDBvsEventos.objects.all()
+
+class LineabasevsEventosViewSet(viewsets.ModelViewSet):
+    serializer_class = LineabasevsEventosSerializer
+    queryset = LineabasevsEventos.objects.all()

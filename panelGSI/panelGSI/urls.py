@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from tablero_GSI.views import lineabaseViewSet, CMDBViewSet, eventosViewSet, llaveViewSet, CMDBvsEventosViewSet
+from tablero_GSI.views import lineabaseViewSet, CMDBViewSet, eventosViewSet, llaveViewSet, CMDBvsEventosViewSet, LineabasevsEventosViewSet
 
 #lineabase router
 
@@ -64,6 +64,15 @@ CMDBvsEventos_router.register(
     basename='CMDBvsEventos'
 )
 
+#LineabasevsEventos router
+
+LineabasevsEventosRouter = routers.SimpleRouter()
+LineabasevsEventosRouter.register(
+    r'LineabasevsEventos',
+    LineabasevsEventosViewSet,
+    basename ='LineabasevsEventos'
+)
+
 urlpatterns = [
     path('admin/', admin.site.urls),
 
@@ -72,5 +81,6 @@ urlpatterns = [
     path('api/', include(CMDB_router.urls)),
     path('api/', include(evento_router.urls)),
     path('api/', include(llave_router.urls)),
-    path('api/', include(CMDBvsEventos_router.urls))
+    path('api/', include(CMDBvsEventos_router.urls)),
+    path('api/', include(LineabasevsEventosRouter.urls))
 ]

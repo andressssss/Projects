@@ -56,3 +56,12 @@ class CMDBvsEventos(models.Model):
         managed = False
         db_table = 'cmdbvseventos'
 
+class LineabasevsEventos(models.Model):
+    aplicacion = models.CharField(primary_key = True, max_length=100)
+    ambienteSV = models.CharField(max_length=100)
+    nombreSVLB = models.CharField(max_length=100)
+    nombreSVEventos = models.CharField(max_length=100)
+
+    class Meta:
+        managed = False
+        db_table = 'lineabasevseventos'
