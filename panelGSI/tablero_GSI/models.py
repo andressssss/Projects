@@ -65,3 +65,41 @@ class LineabasevsEventos(models.Model):
     class Meta:
         managed = False
         db_table = 'lineabasevseventos'
+
+class CMDBvsLineabase(models.Model):
+    aplicacion = models.CharField(primary_key = True, max_length=100)
+    ambienteSV = models.CharField(max_length=100)
+    estadoApp = models.CharField(max_length=100)
+    nombreSVLB = models.CharField(max_length=100)
+    nombreSVCMDB = models.CharField(max_length=100)
+    class Meta:
+        managed = False
+        db_table = 'cmdbvslb'
+
+class EventosvsLineabase(models.Model):
+    aplicacion = models.CharField(primary_key = True, max_length=100)
+    nombreSVEventos = models.CharField(max_length=100)
+    nombreSVLB = models.CharField(max_length=100)
+
+    class Meta:
+        managed = False
+        db_table = 'eventosvslb'
+
+class LineabasevsCMDB(models.Model):
+    aplicacion = models.CharField(primary_key = True, max_length=100)
+    ambienteSV = models.CharField(max_length=100)
+    nombreSVLB = models.CharField(max_length=100)
+    nombreSVCMDB = models.CharField(max_length=100)
+
+    class Meta:
+        managed = False
+        db_table = 'lineabasevscmdb'
+
+class EventosvsCMDB(models.Model):
+    aplicacion = models.CharField(primary_key = True, max_length=100)
+    nombreSVEventos = models.CharField(max_length=100)
+    nombreSVCMDB = models.CharField(max_length=100)
+
+    class Meta:
+        managed = False
+        db_table = 'eventosvscmdb'

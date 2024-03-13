@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import lineabase, CMDB, llave, eventos, CMDBvsEventos, LineabasevsEventos
+from .models import lineabase, CMDB, llave, eventos, CMDBvsEventos, LineabasevsEventos, CMDBvsLineabase, EventosvsLineabase, LineabasevsCMDB, EventosvsCMDB
 
 class lineabaseSerializer(serializers.ModelSerializer):
     class Meta:
@@ -31,4 +31,25 @@ class LineabasevsEventosSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = LineabasevsEventos
+        fields = '__all__'
+
+class CMDBvsLineabaseSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = CMDBvsLineabase
+        fields = '__all__'
+
+class EventosvsLineabaseSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = EventosvsLineabase
+        fields = '__all__'
+
+class EventosvsCMDBSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = EventosvsCMDB
+        fields = '__all__'
+
+class LineabasevsCMDBSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = LineabasevsCMDB
         fields = '__all__'

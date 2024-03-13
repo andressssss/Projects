@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from tablero_GSI.views import lineabaseViewSet, CMDBViewSet, eventosViewSet, llaveViewSet, CMDBvsEventosViewSet, LineabasevsEventosViewSet
+from tablero_GSI.views import lineabaseViewSet, CMDBViewSet, eventosViewSet, llaveViewSet, CMDBvsEventosViewSet, LineabasevsEventosViewSet, CMDBvsLineabaseViewSet, EventosvsLineabaseViewSet, LineabasevsCMDBViewSet, EventosvsCMDBViewSet
 
 #lineabase router
 
@@ -73,6 +73,42 @@ LineabasevsEventosRouter.register(
     basename ='LineabasevsEventos'
 )
 
+#CMDBvsLineabase router
+
+CMDBvsLineabase_router = routers.SimpleRouter()
+CMDBvsLineabase_router.register(
+    r'CMDBvsLineabase',
+    CMDBvsLineabaseViewSet,
+    basename='CMDBvsLineabase'
+)
+
+#EventosvsLineabase router
+
+EventosvsLineabase_router = routers.SimpleRouter()
+EventosvsLineabase_router.register(
+    r'EventosvsLineabase',
+    EventosvsLineabaseViewSet,
+    basename='EventosvsLineabase'
+)
+
+#LinneabasevsCMDB router
+
+LineabasevsCMDB_router = routers.SimpleRouter()
+LineabasevsCMDB_router.register(
+    r'LineabasevsCMDB',
+    LineabasevsCMDBViewSet,
+    basename='LineabasevsCMDB'
+)
+
+#EventosvsCMDB router
+
+EventosvsCMDB_router = routers.SimpleRouter()
+EventosvsCMDB_router.register(
+    r'EventosvsCMDB',
+    EventosvsCMDBViewSet,
+    basename='EventosvsCMDB'
+)
+
 urlpatterns = [
     path('admin/', admin.site.urls),
 
@@ -82,5 +118,9 @@ urlpatterns = [
     path('api/', include(evento_router.urls)),
     path('api/', include(llave_router.urls)),
     path('api/', include(CMDBvsEventos_router.urls)),
-    path('api/', include(LineabasevsEventosRouter.urls))
+    path('api/', include(LineabasevsEventosRouter.urls)),
+    path('api/', include(CMDBvsLineabase_router.urls)),
+    path('api/', include(EventosvsLineabase_router.urls)),
+    path('api/', include(LineabasevsCMDB_router.urls)),
+    path('api/', include(EventosvsCMDB_router.urls))
 ]
