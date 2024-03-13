@@ -10,7 +10,7 @@ export class CMDBvsEventosComponent {
 
   dataCMDBvsEve: any[] = [];
   totalallazosCMDBvsEve: number = 0;
-  columnsToDisplay = ['id', 'aplicacion', 'nombreSVCMDB', 'estadoApp'];
+  columnsToDisplay = ['id', 'aplicacion', 'nombreSVCMDB'];
 
   constructor(private apiService: ApiService){
   }

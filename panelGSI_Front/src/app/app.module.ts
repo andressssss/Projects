@@ -19,13 +19,21 @@ import { CMDBvsEventosComponent } from './cmdbvs-eventos/cmdbvs-eventos.componen
 import { MatBadgeModule } from '@angular/material/badge';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatTooltipModule } from '@angular/material/tooltip';
+import { CmdbvsLbComponent } from './cmdbvs-lb/cmdbvs-lb.component';
+import { EventosvsLbComponent } from './eventosvs-lb/eventosvs-lb.component';
+import { LbvsCmdbComponent } from './lbvs-cmdb/lbvs-cmdb.component';
+import { EventosvsCmdbComponent } from './eventosvs-cmdb/eventosvs-cmdb.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     LBvsEventosComponent,
-    CMDBvsEventosComponent
+    CMDBvsEventosComponent,
+    CmdbvsLbComponent,
+    EventosvsLbComponent,
+    LbvsCmdbComponent,
+    EventosvsCmdbComponent
   ],
   imports: [
     BrowserModule,

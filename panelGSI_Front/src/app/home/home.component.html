@@ -4,12 +4,6 @@
     </button>
     <span>Control de TI - GSI</span>
     <span class="example-spacer"></span>
-    <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
-    <mat-icon>favorite</mat-icon>
-    </button>
-    <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>share</mat-icon>
-    </button>
 </mat-toolbar>
 <!--
 <div>
@@ -33,9 +27,9 @@
       <mat-grid-list cols="2" rowHeight="2:1">
         <mat-grid-tile>
           <p>
-            <br>Total diferencias: {{ totalallazosEVENTOS }}
-            <br>Total hallazgos LB: {{ totalallazosLBvsEve }}
-            <br>total hallazgos CMDB: {{ totalallazosCMDBvsEve }}
+            <br>Total diferencias: {{ totalhallazosEVENTOS }}
+            <br>Total hallazgos LB: {{ totalhallazosLBvsEve }}
+            <br>total hallazgos CMDB: {{ totalhallazosCMDBvsEve }}
           </p>
         </mat-grid-tile>
         <mat-grid-tile>
@@ -57,8 +51,21 @@
     <mat-card-content>
       <p>
         Este artefacto administrado por la plataforma BMC HELIX, se encarga del registro de cada uno de los CI del entorno de aplicaciones del SENA.
-        Actualmente tiene un total de {{ totalallazos }} diferencias
       </p>
+      <mat-grid-list cols="2" rowHeight="2:1">
+        <mat-grid-tile>
+          <p>
+            <br>Total diferencias: {{ totalhallazosCMDB }}
+            <br>Total hallazgos LB: {{ totalhallazosLBvsCMDB }}
+            <br>total hallazgos Eventos: {{ totalhallazosEvevsCMDB }}
+          </p>
+        </mat-grid-tile>
+        <mat-grid-tile>
+          <mat-icon *ngIf='estadoartCMDB() == 0' matTooltip="Se tienen mas de 100 diferencias, gestionar con urgencia!!!" class="icon-display-warn" fontIcon="warning" ></mat-icon>
+          <mat-icon  *ngIf='estadoartCMDB() == 1' matTooltip="Se tienen mas de 30 diferencias, trabajar en los ajustes lo mas pronto posible" class="icon-display-info" fontIcon="info"></mat-icon>
+          <mat-icon  *ngIf='estadoartCMDB() == 2' matTooltip="Se tienen menos de 30 diferencias, se esta dentro de los parametros" class="icon-display-ok" fontIcon="stars" ></mat-icon>
+        </mat-grid-tile>
+      </mat-grid-list>
     </mat-card-content>
     <mat-card-actions>
       <button mat-flat-button color="primary" class="m-1" (click)="onPulse('CMDBvsLB')">Cruce LB</button>
@@ -72,8 +79,21 @@
     <mat-card-content>
       <p>
         Este artefacto administrado por el DATACENTER del operador, se encarga del registro tecnico de los servidores del entorno de aplicaciones del SENA.
-        Actualmente tiene un total de {{ totalallazos }} diferencias
       </p>
+      <mat-grid-list cols="2" rowHeight="2:1">
+        <mat-grid-tile>
+          <p>
+            <br>Total diferencias: {{ totalhallazosLB }}
+            <br>Total hallazgos CMDB: {{ totalhallazosCMDBvsLB }}
+            <br>total hallazgos Eventos: {{ totalhallazosEvevsLB }}
+          </p>
+        </mat-grid-tile>
+        <mat-grid-tile>
+          <mat-icon *ngIf='estadoartLineabase() == 0' matTooltip="Se tienen mas de 100 diferencias, gestionar con urgencia!!!" class="icon-display-warn" fontIcon="warning" ></mat-icon>
+          <mat-icon  *ngIf='estadoartLineabase() == 1' matTooltip="Se tienen mas de 30 diferencias, trabajar en los ajustes lo mas pronto posible" class="icon-display-info" fontIcon="info"></mat-icon>
+          <mat-icon  *ngIf='estadoartLineabase() == 2' matTooltip="Se tienen menos de 30 diferencias, se esta dentro de los parametros" class="icon-display-ok" fontIcon="stars" ></mat-icon>
+        </mat-grid-tile>
+      </mat-grid-list>
     </mat-card-content>
     <mat-card-actions>
       <button mat-flat-button color="primary" class="m-1" (click)="onPulse('LBvsCMDB')">Cruce CMDB</button>
@@ -88,3 +108,7 @@
 </mat-toolbar>
 <app-cmdbvs-eventos *ngIf="CMDBVSeventosSHOW"></app-cmdbvs-eventos>
 <app-lbvs-eventos *ngIf="lineabaseVSeventosSHOW"></app-lbvs-eventos>
+<app-lbvs-cmdb *ngIf="lineabasevsCMDBShow"></app-lbvs-cmdb>
+<app-eventosvs-cmdb *ngIf="eventosvsCMDBShow"></app-eventosvs-cmdb>
+<app-cmdbvs-lb *ngIf="CMDBvsLineabaseShow"></app-cmdbvs-lb>
+<app-eventosvs-lb *ngIf="eventosvsLineabaseShow"></app-eventosvs-lb>

@@ -1,16 +1,16 @@
 <div class="container p-3">
-    <table mat-table [dataSource]="dataCMDBvsEve" class="mat-elevation-z8">
+    <table mat-table [dataSource]="dataEvevsLB" class="mat-elevation-z8">
         <ng-container matColumnDef="id">
             <th mat-header-cell *matHeaderCellDef> id </th>
-            <td mat-cell *matCellDef="let dataCMDBvsEve; let i = index;"> {{i+1}} </td>
+            <td mat-cell *matCellDef="let dataEvevsLB; let i = index;"> {{i+1}} </td>
           </ng-container>
         <ng-container matColumnDef="aplicacion">
             <th mat-header-cell *matHeaderCellDef> Nombre APP </th>
-            <td mat-cell *matCellDef="let dataCMDBvsEve"> {{dataCMDBvsEve.aplicacion}} </td>
+            <td mat-cell *matCellDef="let dataEvevsLB"> {{dataEvevsLB.aplicacion}} </td>
           </ng-container>
-          <ng-container matColumnDef="nombreSVCMDB">
-            <th mat-header-cell *matHeaderCellDef> NombreSVCMDB </th>
-            <td mat-cell *matCellDef="let dataCMDBvsEve"> {{dataCMDBvsEve.nombreSVCMDB}} </td>
+          <ng-container matColumnDef="nombreSVEventos">
+            <th mat-header-cell *matHeaderCellDef> nombreSVEventos </th>
+            <td mat-cell *matCellDef="let dataEvevsLB"> {{ dataEvevsLB.nombreSVEventos }} </td>
           </ng-container>
           <tr mat-header-row *matHeaderRowDef="columnsToDisplay"></tr>
           <tr mat-row *matRowDef="let myRowData; columns: columnsToDisplay"></tr>
