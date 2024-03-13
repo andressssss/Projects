@@ -1,0 +1,47 @@
+Cargue de datos desde CSV(Revisar)--------------------------------------------------------------------------------------------------------------------------
+
+LOAD DATA INFILE 'C:\Users\Usuario\Documents\Back UP\Infomedia\Requerimientos\MySQL\Cruce\tablaCMDB.csv' INTO TABLE datacmdbapp FIELDS TERMINATED BY ';' ENCLOSED BY '""'IGNORE 1 ROWS;
+
+
+CMDB VS EVENTOS - SERVIDORES--------------------------------------------------------------------------------------------------------------------------
+
+SELECT 
+    tablero_gsi_cmdb.aplicacion, 
+    tablero_gsi_cmdb.ambienteSV, 
+    tablero_gsi_cmdb.estadoApp, 
+    tablero_gsi_cmdb.nombreSV as nombreSVCMDB, 
+    tablero_gsi_eventos.nombreSV as nombreSVEventos
+from 
+	tablero_gsi_llave 
+INNER JOIN 
+	tablero_gsi_cmdb on (tablero_gsi_llave.nombreAppCMDB = tablero_gsi_cmdb.aplicacion 
+                                AND tablero_gsi_cmdb.ambienteSV = 'Producción' 
+                                AND tablero_gsi_cmdb.estadoApp='Aplicado')
+LEFT JOIN 
+	tablero_gsi_eventos on (tablero_gsi_llave.nombreAppEventos = tablero_gsi_eventos.aplicacion 
+                            and tablero_gsi_eventos.nombreSV = tablero_gsi_cmdb.nombreSV)
+                            WHERE tablero_gsi_eventos.nombreSV is null
+ORDER by 
+	tablero_gsi_llave.nombreAppCMDB;
+
+
+LINEABASE VS EVENTOS - SERVIDORES--------------------------------------------------------------------------------------------------------------------------
+
+SELECT 
+    tablero_gsi_lineabase.aplicacion,
+    tablero_gsi_lineabase.ambienteSV,  
+    tablero_gsi_lineabase.nombreSVHost as nombreSVLB, 
+    tablero_gsi_eventos.nombreSV as nombreSVEventos
+from 
+	tablero_gsi_llave 
+INNER JOIN 
+	tablero_gsi_lineabase on (tablero_gsi_llave.nombrAppLB = tablero_gsi_lineabase.aplicacion 
+                                AND tablero_gsi_lineabase.ambienteSV = 'Producción')
+LEFT JOIN 
+	tablero_gsi_eventos on (tablero_gsi_llave.nombreAppEventos = tablero_gsi_eventos.aplicacion 
+                            and tablero_gsi_eventos.nombreSV = tablero_gsi_lineabase.nombreSVHost)
+                            WHERE tablero_gsi_eventos.nombreSV is null
+ORDER by 
+	tablero_gsi_llave.nombrAppLB;
+
+

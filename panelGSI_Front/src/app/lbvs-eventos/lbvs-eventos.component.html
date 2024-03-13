@@ -1,0 +1,18 @@
+<div class="container p-3">
+    <table mat-table [dataSource]="dataLBvsEve" class="mat-elevation-z8">
+        <ng-container matColumnDef="id">
+            <th mat-header-cell *matHeaderCellDef> id </th>
+            <td mat-cell *matCellDef="let dataLBvsEve; let i = index;"> {{i+1}} </td>
+          </ng-container>
+        <ng-container matColumnDef="aplicacion">
+            <th mat-header-cell *matHeaderCellDef> Nombre APP </th>
+            <td mat-cell *matCellDef="let dataLBvsEve"> {{dataLBvsEve.aplicacion}} </td>
+          </ng-container>
+          <ng-container matColumnDef="nombreSVLB">
+            <th mat-header-cell *matHeaderCellDef> NombreSVLB </th>
+            <td mat-cell *matCellDef="let dataLBvsEve"> {{dataLBvsEve.nombreSVLB}} </td>
+          </ng-container>
+          <tr mat-header-row *matHeaderRowDef="columnsToDisplay"></tr>
+          <tr mat-row *matRowDef="let myRowData; columns: columnsToDisplay"></tr>
+    </table>
+    </div>

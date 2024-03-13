@@ -1,0 +1,32 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .card {
+    flex: 1 1 200px; /* Cambiar 200px por el ancho deseado */
+    margin: 10px;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .icon-display-warn {
+    transform: scale(4);
+    color: orange;
+ }
+
+ .icon-display-info {
+  transform: scale(4);
+  color: cornflowerblue;
+}
+
+.icon-display-ok {
+  transform: scale(4);
+  color: greenyellow;
+}
