@@ -1,5 +1,9 @@
 import { Component } from '@angular/core';
 import { ApiService } from '../service/api.service';
+export interface resultado{
+  aplicacion : string;
+  nombreSVLB: string;
+}
 
 @Component({
   selector: 'app-lbvs-cmdb',
@@ -8,8 +12,8 @@ import { ApiService } from '../service/api.service';
 })
 export class LbvsCmdbComponent {
 
-  dataLBvsCMDB: any[] = [];
   columnsToDisplay = ['id', 'aplicacion', 'nombreSVLB'];
+  dataLBvsCMDB: resultado[] = [];
 
   constructor(private apiService: ApiService){
   }
@@ -18,6 +22,7 @@ export class LbvsCmdbComponent {
     this.llenarData();
   }
   llenarData(){
+
     this.apiService.getDataLBvsCMDB().subscribe(dataLBvsCMDB => {
       this.dataLBvsCMDB = dataLBvsCMDB;
     })

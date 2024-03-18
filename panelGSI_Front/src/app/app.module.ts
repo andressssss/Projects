@@ -23,6 +23,8 @@ import { CmdbvsLbComponent } from './cmdbvs-lb/cmdbvs-lb.component';
 import { EventosvsLbComponent } from './eventosvs-lb/eventosvs-lb.component';
 import { LbvsCmdbComponent } from './lbvs-cmdb/lbvs-cmdb.component';
 import { EventosvsCmdbComponent } from './eventosvs-cmdb/eventosvs-cmdb.component';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
 
 @NgModule({
   declarations: [
@@ -49,7 +51,9 @@ import { EventosvsCmdbComponent } from './eventosvs-cmdb/eventosvs-cmdb.componen
     MatDividerModule,
     MatBadgeModule,
     MatGridListModule,
-    MatTooltipModule
+    MatTooltipModule,
+    MatFormFieldModule,
+    MatInputModule,
   ],
   providers: [
     provideAnimationsAsync(),

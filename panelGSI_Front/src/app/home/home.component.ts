@@ -198,7 +198,7 @@ export class HomeComponent {
 
     estadoartLineabase(){
       var estadoart = 0;
-      var x = this.totalhallazosCMDBvsLB;
+      var x = this.totalhallazosLB;
       switch (true){
         case (x < 30):
           estadoart = 2
