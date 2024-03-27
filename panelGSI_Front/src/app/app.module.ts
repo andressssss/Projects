@@ -25,6 +25,8 @@ import { LbvsCmdbComponent } from './lbvs-cmdb/lbvs-cmdb.component';
 import { EventosvsCmdbComponent } from './eventosvs-cmdb/eventosvs-cmdb.component';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
+import {MatPaginatorModule} from '@angular/material/paginator';
+import {ClipboardModule} from '@angular/cdk/clipboard';
 
 @NgModule({
   declarations: [
@@ -54,6 +56,8 @@ import { MatInputModule } from '@angular/material/input';
     MatTooltipModule,
     MatFormFieldModule,
     MatInputModule,
+    MatPaginatorModule,
+    ClipboardModule
   ],
   providers: [
     provideAnimationsAsync(),
